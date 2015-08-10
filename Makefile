@@ -1,5 +1,6 @@
 output := resume.html
 PANDOC_OPTS := --smart --standalone 
+clean := *.html *.html5
 
 include local.mk
 
@@ -18,3 +19,5 @@ resume.%: resume.md resume.%.template
 upload: resume.html
 	rsync -e "ssh -p ${SSH_PORT}" -P -vzc $< ${SSH_USER}@${SSH_HOST}:${SSH_TARGET_DIR}
 
+clean:
+	rm -rf ${clean}
