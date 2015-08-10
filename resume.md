@@ -1,0 +1,150 @@
+---
+name: Byron J. Smith
+
+email: me@byronjsmith.com
+twitter: ByronJSmith
+linkedin: 76273001
+github: bsmith89
+website: http://blog.byronjsmith.com
+
+version: 2015-08-10
+current: http://byronjsmith.com/resume.html
+...
+
+## Research Focus ##
+
+-   I study the role of evolutionary processes in shaping complex microbial
+    communities.
+
+## Education ##
+
+-   [2013-present] **University of Michigan**, Ann Arbor, MI
+    -   Ph.D. Candidate, Ecology and Evolutionary Biology
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2011-2013] **Michigan State University**, East Lansing, MI
+    -   Graduate student, Microbiology and Molecular Genetics
+    -   GPA: 4.0
+    -   Affiliate, BEACON Center for The Study of Evolution in Action
+    -   Affiliate, Great Lakes Bioenergy Research Center
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
+    -   B.S. Biology
+    -   Graduated _Summa Cum Laude_
+    -   GPA: 3.80/4.00 (overall / major)
+    -   Minor: Mathematics
+    -   Research Advisor: Dr. Margarete S. Saha
+
+### Select Coursework and Workshops ###
+
+-   [2015]
+    **Train the Trainers: Teaching Adults Researchers to Program**,
+    Michigan State University
+
+-   [2014] **Guarda Workshop in Evolutionary Biology**, Basel University and
+    ETH Zurich, Switzerland
+
+-   [2012] **Software Carpentry Bootcamp**, Michigan State University
+
+-   [2012] **Enhancing Linkages Between Mathematics and Ecology**,
+    Kellogg Biological Station, Hickory Corners, MI
+
+-   [2011] **Microbial Metagenomics Workshop**, Michigan State University
+
+## Publications ##
+
+-   [2015]
+    Stoddard, S.F., **Smith, B.J.**, Hein, R., Roller, B.R.K., Schmidt, T.M.
+    rrnDB: Improved tools for interpreting rRNA gene abundance in Bacteria and
+    Archaea and a new foundation for future development.
+    _Nucleic Acids Research_.
+    doi:[10.1093/nar/gku1201](http://dx.doi.org/10.1093/nar/gku1201)
+
+## Posters and Presentations ##
+
+-   [2014] "Slow but Successful: Spatial Structure and the Evolution of
+    Efficiency", **Pre-Candidacy Seminar**, Department of Ecology and
+    Evolutionary Biology, University of Michigan
+
+-   [2011] "GABA Signaling and Reception in the Developing Nervous System,
+    Spring" **Honors Colloquium**, The College of William \& Mary
+
+-   [2010] "The Role of Calcium in Neural Phenotype Differentiation in
+    Developing Xenopus", **Undergraduate Research Symposium**, The College of
+    William \& Mary
+
+## Grants and Fellowships ##
+
+-   [2013-2014] UM EEB Departmental Block Grant
+
+-   [2011-2012] Excellence in BioMolecular Science Fellowship from the College
+    of Natural Science, Michigan State University
+
+-   [2008-2010] Howard Hughes Medical Institute Student Research Award
+
+-   [2008] Howard Hughes Medical Institute Freshman Research Grant
+
+## Honors and Awards ##
+
+-   [2011] Nominated for Michigan State University Distinguished Fellowship or
+    University Enrichment Fellowship
+
+-   [2007, 2008, 2009, 2011] The College of William \& Mary
+    Dean's List for Academic Excellence
+
+-   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
+    Societies
+
+## Research ##
+
+-   Advisor: Dr. Thomas M. Schmidt
+    -   [2012-Present] Michigan State University and University of Michigan
+
+-   Advisor: Dr. Margaret S. Saha
+    -   [2008-2011] The College of William \& Mary
+
+-   Advisor: Dr. Mary A. Voytek
+    -   [2006-2007] The United States Geological Survey
+
+## Teaching ##
+
+-   [2015] Co-Instructor,
+    **Software Carpentry Bootcamp**,
+    Stanford University
+    -   Taught a two day workshop with one other instructor on basic computing
+        skills for researchers: programming, version control, data management,
+        etc.
+    -   Students were early career scientists (primarily postdocs and graduate
+        students)
+
+-   [2015] Graduate Student Instructor,
+    **Introductory Biology Lab: The Human Microbiome**,
+    University of Michigan
+    -   Assisted in designing laboratory activites and lectures for a novel,
+        research based, introductory biology lab
+    -   Course Instructor: Dr. Arvind Venkateraman and Dr. Thomas M. Schmidt
+
+-   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
+    University of Michigan
+    -   Assisted instructors teaching basic computing skills to
+        early career scientists
+
+-   [2013] Graduate Student Instructor, **General Ecology**,
+    University of Michigan
+    -   Course Instructor: Dr. Aaron A. King
+
+-   [2012] Teaching Assistant, **Microbial Genomics Lab**,
+    Michigan State University
+    -   Course Instructor: Dr. Robert A. Britton
+
+## Service and Outreach ##
+
+-   [2014-2015] Graduate Student Representative to the
+    Department of Ecology and Evolutionary Biology **Seminar Committee**
+
+-   [2015] National Ocean Sciences Bowl, "**Great Lakes Bowl**" volunteer
+
+-   [2013-2014] Michigan **Xplore Engineering**
+    "Microbiology and Environmental Engineering" workshop team
+
