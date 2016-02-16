@@ -7,7 +7,7 @@ linkedin: 76273001
 github: bsmith89
 website: http://blog.byronjsmith.com
 
-version: 2015-08-10
+version: 2016-02-16
 current: http://byronjsmith.com/resume.html
 ...
 
@@ -76,6 +76,8 @@ current: http://byronjsmith.com/resume.html
 
 ## Grants and Fellowships ##
 
+-   [2015-2016] UM Glenn Center for Aging Research Grant
+
 -   [2013-2014] UM EEB Departmental Block Grant
 
 -   [2011-2012] Excellence in BioMolecular Science Fellowship from the College
@@ -109,20 +111,27 @@ current: http://byronjsmith.com/resume.html
 
 ## Teaching ##
 
--   [2015] Co-Instructor,
-    **Software Carpentry Bootcamp**,
-    Stanford University
-    -   Taught a two day workshop with one other instructor on basic computing
-        skills for researchers: programming, version control, data management,
-        etc.
+-   [2016] Instructor,
+    **University of Davis Bodega Marine Laboratory Bioinformatics Workshop**,
+    -   Invited to teach a half-day lesson titled
+        _GNU Make for Reproducible Analysis Pipelines_
+    -   Workshop Organizer: Dr. C. Titus Brown
+
+-   [2015-2016] Instructor,
+    **Software Carpentry Bootcamps**,
+    -   Taught two day workshops in collaboration with other instructors on
+        basic computing skills for researchers: programming, version control,
+        data management, etc.
     -   Students were early career scientists (primarily postdocs and graduate
         students)
+    -   Workshops at Stanford University, University of Pennsylvania, and
+        University of New Hampshire
 
 -   [2015] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
     University of Michigan
-    -   Assisted in designing laboratory activites and lectures for a novel,
-        research based, introductory biology lab
+    -   Assisted for two semesters in designing laboratory activites and
+        lectures for a novel, research based, introductory biology lab
     -   Course Instructor: Dr. Arvind Venkateraman and Dr. Thomas M. Schmidt
 
 -   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
