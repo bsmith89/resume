@@ -43,11 +43,11 @@ $if(name)$
 $endif$
 <div class="contact">
   /
-  $if(email)$<a href="mailto:$email$">$email$</a> / $endif$
-  $if(twitter)$<a href="https://twitter.com/$twitter$">@$twitter$</a> / $endif$
-  $if(linkedin)$<a href="https://www.linkedin.com/profile/view?id=$linkedin$">LinkedIn</a> / $endif$
-  $if(github)$<a href="https://github.com/$github$">Github</a> / $endif$
-  $if(website)$<a href="$website$">Website</a> / $endif$
+  $if(email)$<a id="email-link" href="mailto:$email$">$email$</a> / $endif$
+  $if(twitter)$<a id="twitter-link" href="https://twitter.com/$twitter$">@$twitter$</a> / $endif$
+  $if(linkedin)$<a id="linkedin-link" href="https://www.linkedin.com/profile/view?id=$linkedin$">LinkedIn</a> / $endif$
+  $if(github)$<a id="github-link" href="https://github.com/$github$">Github</a> / $endif$
+  $if(website)$<a id="website-link" href="$website$">Website</a> / $endif$
 </div>
 </header>
 <hr>
