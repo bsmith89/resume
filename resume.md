@@ -32,7 +32,7 @@ current: http://byronjsmith.com/resume.html
 -   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
     -   B.S. Biology
     -   Graduated _Summa Cum Laude_
-    -   GPA: 3.80/4.00 (overall / major)
+    -   GPA: 3.80 (overall) / 4.00 (major)
     -   Minor: Mathematics
     -   Research Advisor: Dr. Margarete S. Saha
 
