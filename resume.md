@@ -7,6 +7,8 @@ linkedin: 76273001
 github: bsmith89
 website: http://blog.byronjsmith.com
 
+analytics: UA-40659359-4
+
 version: 2016-02-16
 current: http://byronjsmith.com/resume.html
 ...
