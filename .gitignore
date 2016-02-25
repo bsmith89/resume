@@ -1,5 +1,6 @@
 *.html5
 *.html
+*.pdf
 *.swp
 local.mk
 .venv
