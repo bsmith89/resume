@@ -23,3 +23,7 @@ SSH_TARGET_DIR=
 ### TODO ###
 
 -   Add CSS
+-   Add requirements to this README
+    -   ghp-import?
+    -   pandoc
+-   Pare down latex template
