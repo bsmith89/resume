@@ -32,11 +32,13 @@ resume.html: resume.md resume.html5.template
 resume.pdf: resume.md resume.latex.template
 	pandoc --to=latex --template=$(word 2,$^) --output=$@ $(word 1,$^)
 
-upload: ${OUTPUT}
+website: ${OUTPUT}
 	rsync -e "ssh -p ${SSH_PORT}" -P -vzc $^ ${SSH_USER}@${SSH_HOST}:${SSH_TARGET_DIR}
 
 gh-pages: site
 	ghp-import -b gh-pages -m "`date`" -p ${SITE_DIR}
+
+upload: website gh-pages
 
 clean:
 	rm -rf ${CLEANUP}
