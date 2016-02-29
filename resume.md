@@ -87,7 +87,7 @@ current: http://byronjsmith.com/resume.html
 -   [2011-2012] Excellence in BioMolecular Science Fellowship from the College
     of Natural Science, Michigan State University
 
--   [2008-2010] Howard Hughes Medical Institute Student Research Award
+-   [2008-2010] Howard Hughes Medical Institute Student Research Awards
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
