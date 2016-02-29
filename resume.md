@@ -18,42 +18,6 @@ current: http://byronjsmith.com/resume.html
 -   I study the role of evolutionary processes in shaping complex microbial
     communities.
 
-## Education ##
-
--   [2013-present] **University of Michigan**, Ann Arbor, MI
-    -   Ph.D. Candidate, Ecology and Evolutionary Biology
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2011-2013] **Michigan State University**, East Lansing, MI
-    -   Graduate student, Microbiology and Molecular Genetics
-    -   GPA: 4.0
-    -   Affiliate, BEACON Center for The Study of Evolution in Action
-    -   Affiliate, Great Lakes Bioenergy Research Center
-    -   Research Advisor: Dr. Thomas M. Schmidt
-
--   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
-    -   B.S. Biology
-    -   Graduated _Summa Cum Laude_
-    -   GPA: 3.80 (overall) / 4.00 (major)
-    -   Minor: Mathematics
-    -   Research Advisor: Dr. Margarete S. Saha
-
-### Select Coursework and Workshops ###
-
--   [2015]
-    **Train the Trainers: Teaching Adults Researchers to Program**,
-    Michigan State University
-
--   [2014] **Guarda Workshop in Evolutionary Biology**, Basel University and
-    ETH Zurich, Switzerland
-
--   [2012] **Software Carpentry Bootcamp**, Michigan State University
-
--   [2012] **Enhancing Linkages Between Mathematics and Ecology**,
-    Kellogg Biological Station, Hickory Corners, MI
-
--   [2011] **Microbial Metagenomics Workshop**, Michigan State University
-
 ## Publications ##
 
 -   [2015]
@@ -90,6 +54,42 @@ current: http://byronjsmith.com/resume.html
 -   [2008-2010] Howard Hughes Medical Institute Student Research Awards
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
+
+## Education ##
+
+-   [2013-present] **University of Michigan**, Ann Arbor, MI
+    -   Ph.D. Candidate, Ecology and Evolutionary Biology
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2011-2013] **Michigan State University**, East Lansing, MI
+    -   Graduate student, Microbiology and Molecular Genetics
+    -   GPA: 4.0
+    -   Affiliate, BEACON Center for The Study of Evolution in Action
+    -   Affiliate, Great Lakes Bioenergy Research Center
+    -   Research Advisor: Dr. Thomas M. Schmidt
+
+-   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
+    -   B.S. Biology
+    -   Graduated _Summa Cum Laude_
+    -   GPA: 3.80 (overall) / 4.00 (major)
+    -   Minor: Mathematics
+    -   Research Advisor: Dr. Margarete S. Saha
+
+### Select Coursework and Workshops ###
+
+-   [2015]
+    **Train the Trainers: Teaching Adults Researchers to Program**,
+    Michigan State University
+
+-   [2014] **Guarda Workshop in Evolutionary Biology**, Basel University and
+    ETH Zurich, Switzerland
+
+-   [2012] **Software Carpentry Bootcamp**, Michigan State University
+
+-   [2012] **Enhancing Linkages Between Mathematics and Ecology**,
+    Kellogg Biological Station, Hickory Corners, MI
+
+-   [2011] **Microbial Metagenomics Workshop**, Michigan State University
 
 ## Honors and Awards ##
 
