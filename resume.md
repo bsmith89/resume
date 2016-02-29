@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2016-02-16
+version: 2016-02-29
 current: http://byronjsmith.com/resume.html
 ...
 
