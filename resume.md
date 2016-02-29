@@ -44,7 +44,7 @@ current: http://byronjsmith.com/resume.html
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
     grant which was funded for $50,000
-    -   Principle Investigator: Dr. Thomas M. Schmidt
+    -   Principal Investigator: Dr. Thomas M. Schmidt
 
 -   [2013-2014] UM EEB Departmental Block Grant
 
