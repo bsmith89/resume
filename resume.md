@@ -42,6 +42,9 @@ current: http://byronjsmith.com/resume.html
 
 ## Grants and Fellowships ##
 
+-   [2016-2017] Integrated Training in Microbial Systems (ITiMS) Fellowship
+    -   Co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
+
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
     grant which was funded for $50,000
     -   Principal Investigator: Dr. Thomas M. Schmidt
