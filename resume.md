@@ -131,7 +131,8 @@ current: http://byronjsmith.com/resume.html
         data management, etc.
     -   Students were early career scientists (primarily postdocs and graduate
         students)
-    -   Workshops at Stanford University, University of Pennsylvania, and
+    -   Workshops at Stanford University, University of Pennsylvania,
+        University of California, San Francisco, and
         University of New Hampshire
 
 -   [2015] Graduate Student Instructor,
