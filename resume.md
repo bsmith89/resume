@@ -33,15 +33,15 @@ current: http://www.byronjsmith.com/resume.html
     the gut microbiome and its fermentaion products", **Michigan Meeting
     on the Microbiome**, University of Michigan
 
--   [2014] "Slow but Successful: Spatial Structure and the Evolution of
-    Efficiency", **Pre-Candidacy Seminar**, Department of Ecology and
+-   [2014] "Slow but successful: spatial structure and the evolution of
+    efficiency", **Pre-Candidacy Seminar**, Department of Ecology and
     Evolutionary Biology, University of Michigan
 
--   [2011] "GABA Signaling and Reception in the Developing Nervous System,
-    Spring" **Honors Colloquium**, The College of William \& Mary
+-   [2011] "GABA signaling and reception in the developing nervous system"
+    **Spring Honors Colloquium**, The College of William \& Mary
 
--   [2010] "The Role of Calcium in Neural Phenotype Differentiation in
-    Developing Xenopus", **Undergraduate Research Symposium**, The College of
+-   [2010] "The role of calcium in neural phenotype differentiation in
+    developing Xenopus", **Undergraduate Research Symposium**, The College of
     William \& Mary
 
 ## Grants and Fellowships ##
