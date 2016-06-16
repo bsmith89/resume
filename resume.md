@@ -5,12 +5,12 @@ email: me@byronjsmith.com
 twitter: ByronJSmith
 linkedin: 76273001
 github: bsmith89
-website: http://blog.byronjsmith.com
+website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
 version: 2016-02-29
-current: http://byronjsmith.com/resume.html
+current: http://www.byronjsmith.com/resume.html
 ...
 
 ## Research Focus ##
