@@ -29,6 +29,10 @@ current: http://byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
+-   [2016] "The longevity enhancing drug Acarbose modulates
+    the gut microbiome and its fermentaion products", **Michigan Meeting
+    on the Microbiome**, University of Michigan
+
 -   [2014] "Slow but Successful: Spatial Structure and the Evolution of
     Efficiency", **Pre-Candidacy Seminar**, Department of Ecology and
     Evolutionary Biology, University of Michigan
