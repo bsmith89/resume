@@ -16,7 +16,7 @@ current: http://www.byronjsmith.com/resume.html
 ## Research Focus ##
 
 -   I study the role of evolutionary processes in shaping complex microbial
-    communities.
+    communities and their functions.
 
 ## Publications ##
 
@@ -30,7 +30,7 @@ current: http://www.byronjsmith.com/resume.html
 ## Posters and Presentations ##
 
 -   [2016] "The longevity enhancing drug Acarbose modulates
-    the gut microbiome and its fermentaion products", **Michigan Meeting
+    the gut microbiome and its fermentation products", **Michigan Meeting
     on the Microbiome**, University of Michigan
 
 -   [2014] "Slow but successful: spatial structure and the evolution of
@@ -145,8 +145,9 @@ current: http://www.byronjsmith.com/resume.html
 -   [2015] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
     University of Michigan
-    -   Assisted for two semesters in designing laboratory activites and
-        lectures for a novel, research based, introductory biology lab
+    -   Assisted for two semesters in designing and running laboratory
+        activities and lectures for a novel, research based, introductory
+        biology lab
     -   Course Instructor: Dr. Arvind Venkateraman and Dr. Thomas M. Schmidt
 
 -   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
