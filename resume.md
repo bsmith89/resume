@@ -124,13 +124,7 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Teaching ##
 
--   [2016] Instructor,
-    **University of Davis Bodega Marine Laboratory Bioinformatics Workshop**,
-    -   Invited to teach a half-day lesson titled
-        _GNU Make for Reproducible Analysis Pipelines_
-    -   Workshop Organizer: Dr. C. Titus Brown
-
--   [2015-2016] Instructor,
+-   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
     -   Taught two day workshops in collaboration with other instructors on
         basic computing skills for researchers: programming, version control,
@@ -138,8 +132,15 @@ current: http://www.byronjsmith.com/resume.html
     -   Students were early career scientists (primarily postdocs and graduate
         students)
     -   Workshops at Stanford University, University of Pennsylvania,
-        University of California, San Francisco, and
-        University of New Hampshire
+        University of California, San Francisco,
+        University of New Hampshire,
+        and (upcoming) Harvard University
+
+-   [2016] Instructor,
+    **University of Davis Bodega Marine Laboratory Bioinformatics Workshop**,
+    -   Invited to teach a half-day lesson titled
+        _GNU Make for Reproducible Analysis Pipelines_
+    -   Workshop Organizer: Dr. C. Titus Brown
 
 -   [2015] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
@@ -162,6 +163,13 @@ current: http://www.byronjsmith.com/resume.html
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+
+-   [2016-present] **PUP Student Meeting**
+    -   Collaborated in proposing and organizing a meeting for the directors
+        and students of the Burroughs Wellcome Fund's Institutional Program
+        Unifying Population and Laboratory Based Sciences (PUP)
+    -   To be held in 2017 at the University of Michigan
+    -   $150,000 budget
 
 -   [2014-2015] Graduate Student Representative to the
     Department of Ecology and Evolutionary Biology **Seminar Committee**
