@@ -9,7 +9,7 @@ website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2016-08-27
+version: 2016-11-02
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -131,10 +131,9 @@ current: http://www.byronjsmith.com/resume.html
         data management, etc.
     -   Students were early career scientists (primarily postdocs and graduate
         students)
-    -   Workshops at Stanford University, University of Pennsylvania,
-        University of California, San Francisco,
-        University of New Hampshire,
-        and (upcoming) Harvard University
+    -   Workshops at Stanford University, Harvard Medical School, University of
+        Pennsylvania, University of California, San Francisco, University of
+        New Hampshire
 
 -   [2016] Instructor,
     **University of Davis Bodega Marine Laboratory Bioinformatics Workshop**,
@@ -165,12 +164,17 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Service and Outreach ##
 
+-   [2016] Graduate Student Representative to the Department of Ecology
+    and Evolutionary Biology **Executive Committee** during the Fall Term
+
 -   [2016-present] **PUP Student Meeting**
     -   Collaborated in proposing and organizing a meeting for the directors
         and students of the Burroughs Wellcome Fund's Institutional Program
         Unifying Population and Laboratory Based Sciences (PUP)
-    -   To be held in 2017 at the University of Michigan
+    -   To be held August 2017 at the University of Michigan
     -   $150,000 budget
+
+-   [2016-present] **University of Michigan Software Carpentry** group member
 
 -   [2014-2015] Graduate Student Representative to the
     Department of Ecology and Evolutionary Biology **Seminar Committee**
