@@ -9,7 +9,7 @@ website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2016-11-02
+version: 2016-11-02b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -136,7 +136,8 @@ current: http://www.byronjsmith.com/resume.html
         New Hampshire
 
 -   [2016] Instructor,
-    **University of Davis Bodega Marine Laboratory Bioinformatics Workshop**,
+    **Bodega Marine Laboratory Bioinformatics Workshop**,
+    hosted by the University of California, Davis,
     -   Invited to teach a half-day lesson titled
         _GNU Make for Reproducible Analysis Pipelines_
     -   Workshop Organizer: Dr. C. Titus Brown
