@@ -68,6 +68,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2013-present] **University of Michigan**, Ann Arbor, MI
     -   Ph.D. Candidate, Ecology and Evolutionary Biology
+    -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
     -   Research Advisor: Dr. Thomas M. Schmidt
 
 -   [2011-2013] **Michigan State University**, East Lansing, MI
