@@ -3,13 +3,13 @@ name: Byron J. Smith
 
 email: me@byronjsmith.com
 twitter: ByronJSmith
-linkedin: 76273001
+linkedin: bsmith89
 github: bsmith89
 website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-06-12b
+version: 2017-06-12c
 current: http://www.byronjsmith.com/resume.html
 ...
 

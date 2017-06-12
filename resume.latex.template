@@ -201,7 +201,7 @@ $endif$
 \begin{itemize*}[label=/]
     $if(email)$ \item \href{mailto:$email$}{$email$} $endif$
     $if(twitter)$ \item \href{https://twitter.com/$twitter$}{@$twitter$} $endif$
-    $if(linkedin)$ \item \href{https://www.linkedin.com/profile/view?id=$linkedin$}{LinkedIn} $endif$
+    $if(linkedin)$ \item \href{https://www.linkedin.com/in/$linkedin$}{LinkedIn} $endif$
     $if(github)$ \item \href{https://github.com/$github$}{Github} $endif$
     $if(website)$ \item \href{$website$}{Website} $endif$
     \item\
