@@ -142,6 +142,12 @@ current: http://www.byronjsmith.com/resume.html
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University
 
+-   [2017] Teaching Assistant (upcoming),
+    **Data Intensive Biology Summer Research Institute:
+    Environmental Metagenomics** hosted by the University of California, Davis
+    -   Workshop Organizer: Dr. C. Titus Brown
+    -   Instructor: Harriet Alexander
+
 -   [2016] Instructor,
     **Bodega Marine Laboratory Bioinformatics Workshop**,
     hosted by the University of California, Davis
