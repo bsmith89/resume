@@ -29,6 +29,11 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
+-   [2017] "Changes in the gut microbiota and fermentaion products associated
+    with enhanced longevity in acarbose-treated mice.",
+    **American Society for Microbiology - Microbe**,
+    New Orleans, Louisiana
+
 -   [2016] "The longevity enhancing drug Acarbose modulates
     the gut microbiome and its fermentation products", **Michigan Meeting
     on the Microbiome**, University of Michigan
