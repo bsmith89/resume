@@ -15,8 +15,8 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Research Focus ##
 
--   I study the role of evolutionary processes in shaping complex microbial
-    communities and their functions.
+-   I develop and use bioinformatic tools and statistical models to integrate
+    diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
