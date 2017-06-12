@@ -198,4 +198,3 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2013-2014] Michigan **Xplore Engineering**
     "Microbiology and Environmental Engineering" workshop team
-
