@@ -9,7 +9,7 @@ website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-06-12
+version: 2017-06-12b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,8 +29,9 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
--   [2017] "Changes in the gut microbiota and fermentaion products associated
-    with enhanced longevity in acarbose-treated mice.",
+-   [2017] "[Changes in the gut microbiota and fermentaion products associated
+    with enhanced longevity in acarbose-treated
+    mice.](http://byronjsmith.com/asm2017_poster.pdf)",
     **American Society for Microbiology - Microbe**,
     New Orleans, Louisiana
 
