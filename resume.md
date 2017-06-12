@@ -97,8 +97,8 @@ current: http://www.byronjsmith.com/resume.html
     **Train the Trainers: Teaching Adults Researchers to Program**,
     Michigan State University
 
--   [2014] **Guarda Workshop in Evolutionary Biology**, Basel University and
-    ETH Zurich, Switzerland
+-   [2014] **Guarda Workshop in Evolutionary Biology**, University of Basel and
+    ETH Zürich, Switzerland
 
 -   [2012] **Software Carpentry Bootcamp**, Michigan State University
 
@@ -144,7 +144,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2016] Instructor,
     **Bodega Marine Laboratory Bioinformatics Workshop**,
-    hosted by the University of California, Davis,
+    hosted by the University of California, Davis
     -   Invited to teach a half-day lesson titled
         _GNU Make for Reproducible Analysis Pipelines_
     -   Workshop Organizer: Dr. C. Titus Brown
