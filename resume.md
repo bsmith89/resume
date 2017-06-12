@@ -134,8 +134,8 @@ current: http://www.byronjsmith.com/resume.html
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
     -   Taught two day workshops in collaboration with other instructors on
-        basic computing skills for researchers: programming, version control,
-        data management, etc.
+        computing skills for researchers: programming, the command-line
+        version control, data management, etc.
     -   Students were early career scientists (primarily postdocs and graduate
         students)
     -   Workshops at Stanford University, Harvard Medical School, University of
@@ -182,7 +182,8 @@ current: http://www.byronjsmith.com/resume.html
     -   To be held August 2017 at the University of Michigan
     -   $150,000 budget
 
--   [2016-present] **University of Michigan Software Carpentry** group member
+-   [2016-present] **University of Michigan Software Carpentry** active group
+    member
 
 -   [2014-2015] Graduate Student Representative to the
     Department of Ecology and Evolutionary Biology **Seminar Committee**
