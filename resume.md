@@ -140,7 +140,7 @@ current: http://www.byronjsmith.com/resume.html
         students)
     -   Workshops at Stanford University, Harvard Medical School, University of
         Pennsylvania, University of California, San Francisco, University of
-        New Hampshire, University of Michigan
+        New Hampshire, University of Michigan, Wayne State University
 
 -   [2016] Instructor,
     **Bodega Marine Laboratory Bioinformatics Workshop**,
