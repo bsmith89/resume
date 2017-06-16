@@ -9,7 +9,7 @@ website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-06-12c
+version: 2017-06-16
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -182,10 +182,10 @@ current: http://www.byronjsmith.com/resume.html
 -   [2016] Graduate Student Representative to the Department of Ecology
     and Evolutionary Biology **Executive Committee** during the Fall Term
 
--   [2016-present] **PUP Student Meeting**
+-   [2016-present] **Models: at the intersection of data and discovery.**
     -   Collaborated in proposing and organizing a meeting for the directors
         and students of the Burroughs Wellcome Fund's Institutional Program
-        Unifying Population and Laboratory Based Sciences (PUP)
+        Unifying Population and Laboratory Based Sciences
     -   To be held August 2017 at the University of Michigan
     -   $150,000 budget
 
