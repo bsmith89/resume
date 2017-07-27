@@ -5,7 +5,7 @@ email: me@byronjsmith.com
 twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
-website: http://www.byronjsmith.com
+website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
