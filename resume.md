@@ -9,7 +9,7 @@ website: http://www.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-06-16
+version: 2017-07-27
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,36 +29,33 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
--   [2017] "[Changes in the gut microbiota and fermentaion products associated
-    with enhanced longevity in acarbose-treated
-    mice.](http://byronjsmith.com/asm2017_poster.pdf)",
+-   [2017] "Changes in the gut microbiota and fermentaion products associated
+    with enhanced longevity in acarbose-treated mice." (poster),
     **American Society for Microbiology - Microbe**,
-    New Orleans, Louisiana
+    New Orleans, Louisiana [(link)](http://byronjsmith.com/asm2017_poster.pdf)
 
 -   [2016] "The longevity enhancing drug Acarbose modulates
-    the gut microbiome and its fermentation products", **Michigan Meeting
-    on the Microbiome**, University of Michigan
+    the gut microbiome and its fermentation products" (poster),
+    **Michigan Meeting on the Microbiome**, University of Michigan
 
 -   [2014] "Slow but successful: spatial structure and the evolution of
-    efficiency", **Pre-Candidacy Seminar**, Department of Ecology and
+    efficiency" (talk), **Pre-Candidacy Seminar**, Department of Ecology and
     Evolutionary Biology, University of Michigan
 
 -   [2011] "GABA signaling and reception in the developing nervous system"
-    **Spring Honors Colloquium**, The College of William \& Mary
+    (talk) **Spring Honors Colloquium**, The College of William \& Mary
 
 -   [2010] "The role of calcium in neural phenotype differentiation in
-    developing Xenopus", **Undergraduate Research Symposium**, The College of
-    William \& Mary
+    developing Xenopus" (poster), **Undergraduate Research Symposium**,
+    The College of William \& Mary
 
 ## Grants and Fellowships ##
 
 -   [2016-2017] Integrated Training in Microbial Systems (ITiMS) Fellowship
-
     -   Co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
     grant which was funded for $50,000
-
     -   Principal Investigator: Dr. Thomas M. Schmidt
 
 -   [2013-2014] UM EEB Departmental Block Grant
@@ -143,11 +140,12 @@ current: http://www.byronjsmith.com/resume.html
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University
 
--   [2017] Teaching Assistant (upcoming),
-    **Data Intensive Biology Summer Research Institute:
-    Environmental Metagenomics** hosted by the University of California, Davis
-    -   Workshop Organizer: Dr. C. Titus Brown
-    -   Instructor: Harriet Alexander
+-   [2017] Teaching Assistant,
+    **Data Intensive Biology Summer Research Institute** hosted by
+    the University of California, Davis
+    -   Assisted with week-long workshops on "Non-Model Organism RNA-Seq" and
+        "Environmental Metagenomics"
+    -   Organizer: Dr. C. Titus Brown
 
 -   [2016] Instructor,
     **Bodega Marine Laboratory Bioinformatics Workshop**,
@@ -183,7 +181,7 @@ current: http://www.byronjsmith.com/resume.html
     and Evolutionary Biology **Executive Committee** during the Fall Term
 
 -   [2016-present] **Models: at the intersection of data and discovery.**
-    -   Collaborated in proposing and organizing a meeting for the directors
+    -   Collaborated in proposing a meeting for the directors
         and students of the Burroughs Wellcome Fund's Institutional Program
         Unifying Population and Laboratory Based Sciences
     -   To be held August 2017 at the University of Michigan
