@@ -51,7 +51,7 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Grants and Fellowships ##
 
--   [2016-2017] Integrated Training in Microbial Systems (ITiMS) Fellowship
+-   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Fellowship
     -   Co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
@@ -177,18 +177,17 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Service and Outreach ##
 
--   [2016] Graduate Student Representative to the Department of Ecology
-    and Evolutionary Biology **Executive Committee** during the Fall Term
+-   [2016-present] **University of Michigan Software Carpentry**
 
--   [2016-present] **Models: at the intersection of data and discovery.**
+-   [2017] **Models: at the intersection of data and discovery.**
     -   Collaborated in proposing a meeting for the directors
         and students of the Burroughs Wellcome Fund's Institutional Program
         Unifying Population and Laboratory Based Sciences
-    -   To be held August 2017 at the University of Michigan
+    -   Held at the University of Michigan
     -   $150,000 budget
 
--   [2016-present] **University of Michigan Software Carpentry** active group
-    member
+-   [2016] Graduate Student Representative to the Department of Ecology
+    and Evolutionary Biology **Executive Committee** during the Fall Term
 
 -   [2014-2015] Graduate Student Representative to the
     Department of Ecology and Evolutionary Biology **Seminar Committee**
