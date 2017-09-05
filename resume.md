@@ -131,10 +131,10 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
-    -   Taught two day workshops in collaboration with other instructors on
+    -   Two day workshops in collaboration with other instructors on
         computing skills for researchers: programming, the command-line
         version control, data management, etc.
-    -   Students were early career scientists (primarily postdocs and graduate
+    -   Students are early career scientists (primarily postdocs and graduate
         students)
     -   Workshops at Stanford University, Harvard Medical School, University of
         Pennsylvania, University of California, San Francisco, University of
@@ -143,8 +143,8 @@ current: http://www.byronjsmith.com/resume.html
 -   [2017] Teaching Assistant,
     **Data Intensive Biology Summer Research Institute** hosted by
     the University of California, Davis
-    -   Assisted with week-long workshops on "Non-Model Organism RNA-Seq" and
-        "Environmental Metagenomics"
+    -   Assisted with week-long workshops on "Environmental Metagenomics" and
+        "Non-Model Organism RNA-Seq"
     -   Organizer: Dr. C. Titus Brown
 
 -   [2016] Instructor,
@@ -178,6 +178,8 @@ current: http://www.byronjsmith.com/resume.html
 ## Service and Outreach ##
 
 -   [2016-present] **University of Michigan Software Carpentry**
+    -   Actively involved in developing a community of Software and Data
+        Carpentry instructors, learners, and advocates
 
 -   [2017] **Models: at the intersection of data and discovery.**
     -   Collaborated in proposing a meeting for the directors
