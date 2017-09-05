@@ -177,7 +177,7 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Service and Outreach ##
 
--   [2016-present] **University of Michigan Software Carpentry**
+-   [2016-present] **University of Michigan Software Carpentry** group member
     -   Actively involved in developing a community of Software and Data
         Carpentry instructors, learners, and advocates
 
