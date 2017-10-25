@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-09-05
+version: 2017-10-25
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -20,14 +20,25 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
+-   [2017 (in prep.)]
+    **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
+    T.M. Schmidt. Changes in the gut microbiota and fermentation products
+    associated with enhanced longevity in acarbose-treated mice.
+    To be submitted to: _Microbiome_.
+
 -   [2015]
-    Stoddard, S.F., **Smith, B.J.**, Hein, R., Roller, B.R.K., Schmidt, T.M.
+    S.F. Stoddard, **B.J. Smith**, R. Hein, B.R.K. Roller, T.M. Schmidt.
     rrnDB: Improved tools for interpreting rRNA gene abundance in Bacteria and
     Archaea and a new foundation for future development.
     _Nucleic Acids Research_.
     doi:[10.1093/nar/gku1201](http://dx.doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2017 (upcoming)] "Automating reproducible data analysis pipelines with Snakemake"
+    (invited talk),
+    **Department of Research Computing - Joint User Groups Meeting**,
+    Boise State University
 
 -   [2017] "Changes in the gut microbiota and fermentaion products associated
     with enhanced longevity in acarbose-treated mice." (poster),
@@ -187,6 +198,11 @@ current: http://www.byronjsmith.com/resume.html
         Unifying Population and Laboratory Based Sciences
     -   Held at the University of Michigan
     -   $150,000 budget
+
+-   [2016-2017] **Ecology and Evolutionary Biology Statistics Office Hours**
+    organizer
+    -   Co-founded and organized monthly statistics help sessions for graduate
+        students
 
 -   [2016] Graduate Student Representative to the Department of Ecology
     and Evolutionary Biology **Executive Committee** during the Fall Term
