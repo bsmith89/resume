@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-10-25
+version: 2017-11-13
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -35,7 +35,12 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
--   [2017 (upcoming)] "Automating reproducible data analysis pipelines with Snakemake"
+-   [2017] "Changes in the gut microbiota and fermentaion products associated
+    with enhanced longevity in acarbose-treated mice." (talk),
+    **Microbiome Group Seminar Series**,
+    University of Michigan
+
+-   [2017] "Automating reproducible data analysis pipelines with Snakemake"
     (invited talk),
     **Department of Research Computing - Joint User Groups Meeting**,
     Boise State University
