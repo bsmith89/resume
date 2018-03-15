@@ -32,6 +32,9 @@ resume.html: resume.md resume.html5.template
 resume.pdf: resume.md resume.latex.template
 	pandoc --to=latex --template=$(word 2,$^) --output=$@ $(word 1,$^)
 
+%.docx: %.md
+	pandoc $< -o $@
+
 website: ${OUTPUT}
 	rsync -e "ssh -p ${SSH_PORT}" -P -vzc $^ ${SSH_USER}@${SSH_HOST}:${SSH_TARGET_DIR}
 
