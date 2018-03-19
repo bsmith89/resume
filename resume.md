@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2017-11-13
+version: 2018-03-15
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -20,7 +20,7 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [2017 (in prep.)]
+-   [2018 (in prep.)]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
     T.M. Schmidt. Changes in the gut microbiota and fermentation products
     associated with enhanced longevity in acarbose-treated mice.
@@ -34,6 +34,14 @@ current: http://www.byronjsmith.com/resume.html
     doi:[10.1093/nar/gku1201](http://dx.doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+
+-   [2018] "Changes in the gut microbiota and fermentaion products associated
+    with enhanced longevity in acarbose-treated mice." (poster),
+    **Keystone Symposium on Manipulation of the Gut Microbiota for Metabolic
+    Health**,
+    Banff, Alberta [(link)](http://byronjsmith.com/keystone18X3_poster.pdf)
+
 
 -   [2017] "Changes in the gut microbiota and fermentaion products associated
     with enhanced longevity in acarbose-treated mice." (talk),
@@ -74,7 +82,7 @@ current: http://www.byronjsmith.com/resume.html
     grant which was funded for $50,000
     -   Principal Investigator: Dr. Thomas M. Schmidt
 
--   [2013-2014] UM EEB Departmental Block Grant
+-   [2013-2014] UM Ecology & Evolutionary Biology Departmental Block Grant
 
 -   [2011-2012] Excellence in BioMolecular Science Fellowship from the College
     of Natural Science, Michigan State University
