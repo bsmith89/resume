@@ -35,28 +35,20 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
-
--   [2018] "Changes in the gut microbiota and fermentaion products associated
-    with enhanced longevity in acarbose-treated mice." (poster),
-    **Keystone Symposium on Manipulation of the Gut Microbiota for Metabolic
-    Health**,
-    Banff, Alberta [(link)](http://byronjsmith.com/keystone18X3_poster.pdf)
-
-
--   [2017] "Changes in the gut microbiota and fermentaion products associated
-    with enhanced longevity in acarbose-treated mice." (talk),
-    **Microbiome Group Seminar Series**,
-    University of Michigan
+-   "Changes in the gut microbiota and fermentation products associated
+    with enhanced longevity in acarbose-treated mice."
+    Presented at:
+    -   [2018] \([poster](http://byronjsmith.com/keystone18X3_poster.pdf)\)
+        **Keystone Symposium on Manipulation of the Gut
+        Microbiota for Metabolic Health**, Banff, Alberta
+    -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of Michigan
+    -   [2017] \(poster\) **American Society for Microbiology - Microbe**, New Orleans,
+        Louisiana
 
 -   [2017] "Automating reproducible data analysis pipelines with Snakemake"
     (invited talk),
     **Department of Research Computing - Joint User Groups Meeting**,
     Boise State University
-
--   [2017] "Changes in the gut microbiota and fermentaion products associated
-    with enhanced longevity in acarbose-treated mice." (poster),
-    **American Society for Microbiology - Microbe**,
-    New Orleans, Louisiana [(link)](http://byronjsmith.com/asm2017_poster.pdf)
 
 -   [2016] "The longevity enhancing drug Acarbose modulates
     the gut microbiome and its fermentation products" (poster),
