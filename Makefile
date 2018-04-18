@@ -26,7 +26,7 @@ ${SITE_DIR}/%: %
 	cp $< $@
 
 resume.html: resume.md resume.html5.template
-	pandoc --smart --standalone --to=html5 --template=$(word 2,$^) \
+	pandoc --standalone --to=html5 --template=$(word 2,$^) \
            --output=$@ $(word 1,$^)
 
 resume.pdf: resume.md resume.latex.template
