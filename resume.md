@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2018-03-15
+version: 2018-04-17
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -38,6 +38,9 @@ current: http://www.byronjsmith.com/resume.html
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
     Presented at:
+    -   [2018] \(talk\)
+        **Pollard Lab Meeting**, University of California,
+        San Francisco, invited by Dr. Katherine Pollard
     -   [2018] \([poster](http://byronjsmith.com/keystone18X3_poster.pdf)\)
         **Keystone Symposium on Manipulation of the Gut
         Microbiota for Metabolic Health**, Banff, Alberta
@@ -194,6 +197,8 @@ current: http://www.byronjsmith.com/resume.html
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+
+-   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
 
 -   [2016-present] **University of Michigan Software Carpentry** group member
     -   Actively involved in developing a community of Software and Data
