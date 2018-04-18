@@ -41,6 +41,8 @@ current: http://www.byronjsmith.com/resume.html
     -   [2018] \([poster](http://byronjsmith.com/keystone18X3_poster.pdf)\)
         **Keystone Symposium on Manipulation of the Gut
         Microbiota for Metabolic Health**, Banff, Alberta
+    -   [2017] \(talk\) **Lynch Lab Meeting**, University of California, San Francisco,
+        invited by Susan Lynch
     -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of Michigan
     -   [2017] \(poster\) **American Society for Microbiology - Microbe**, New Orleans,
         Louisiana
