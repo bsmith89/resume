@@ -148,6 +148,13 @@ current: http://www.byronjsmith.com/resume.html
 -   Advisor: Dr. Mary A. Voytek
     -   [2006-2007] The United States Geological Survey
 
+## Public Datasets ##
+
+-   [PRJNA448009](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA448009):
+    16S rRNA gene libraries of fecal samples from acarbose treated and
+    control mice
+    -   Associated metabolite profiles and longevity data also available
+
 ## Teaching ##
 
 -   [2015-present] Instructor,
