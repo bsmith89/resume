@@ -38,13 +38,13 @@ current: http://www.byronjsmith.com/resume.html
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
     Presented at:
-    -   [2018] \(talk\)
+    -   [2018] \(invited talk\)
         **Pollard Lab Meeting**, University of California,
         San Francisco, invited by Dr. Katherine Pollard
     -   [2018] \([poster](http://byronjsmith.com/keystone18X3_poster.pdf)\)
         **Keystone Symposium on Manipulation of the Gut
         Microbiota for Metabolic Health**, Banff, Alberta
-    -   [2017] \(talk\) **Lynch Lab Meeting**, University of California, San Francisco,
+    -   [2017] \(invited talk\) **Lynch Lab Meeting**, University of California, San Francisco,
         invited by Dr. Susan Lynch
     -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of Michigan
     -   [2017] \(poster\) **American Society for Microbiology - Microbe**, New Orleans,
