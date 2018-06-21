@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2018-05-08
+version: 2018-06-21
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -166,7 +166,8 @@ current: http://www.byronjsmith.com/resume.html
         students)
     -   Workshops at Stanford University, Harvard Medical School, University of
         Pennsylvania, University of California, San Francisco, University of
-        New Hampshire, University of Michigan, Wayne State University
+        New Hampshire, University of Michigan, Wayne State University,
+        Lawrence Berkeley National Laboratory
 
 -   [2017] Teaching Assistant,
     **Data Intensive Biology Summer Research Institute** hosted by
