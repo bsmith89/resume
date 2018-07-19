@@ -9,7 +9,7 @@ website: http://blog.byronjsmith.com
 
 analytics: UA-40659359-4
 
-version: 2018-06-21
+version: 2018-07-19
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -95,6 +95,7 @@ current: http://www.byronjsmith.com/resume.html
     -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
     -   GPA: 4.0
     -   Research Advisor: Dr. Thomas M. Schmidt
+    -   Expected Graduation in Fall of 2018
 
 -   [2011-2013] **Michigan State University**, East Lansing, MI
     -   Graduate student, Microbiology and Molecular Genetics
