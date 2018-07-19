@@ -6,6 +6,8 @@ twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
 website: http://blog.byronjsmith.com
+header-includes:
+    \usepackage{fullpage}
 
 analytics: UA-40659359-4
 
