@@ -11,7 +11,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2018-07-19
+version: 2018-08-08
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -22,11 +22,10 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [2018 in review]
+-   [2018 in prep]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
     T.M. Schmidt. Changes in the gut microbiota and fermentation products
     associated with enhanced longevity in acarbose-treated mice.
-    Submitted to _Microbiome_.
 
 -   [2015]
     S.F. Stoddard, **B.J. Smith**, R. Hein, B.R.K. Roller, T.M. Schmidt.
