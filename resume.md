@@ -33,7 +33,7 @@ current: http://www.byronjsmith.com/resume.html
     rrnDB: Improved tools for interpreting rRNA gene abundance in Bacteria and
     Archaea and a new foundation for future development.
     _Nucleic Acids Research_.
-    doi:[10.1093/nar/gku1201](http://dx.doi.org/10.1093/nar/gku1201)
+    doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
 
