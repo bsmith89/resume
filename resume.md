@@ -160,6 +160,15 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Teaching ##
 
+-   [2018, 2015] Graduate Student Instructor,
+    **Introductory Biology Lab: The Human Microbiome**,
+    University of Michigan
+    -   Assisted during three semesters in designing and running laboratory
+        activities and lectures for a novel, research based, introductory
+        biology lab
+    -   Course Instructors: Dr. Thomas M. Schmidt, Dr. Kristi MacCready,
+        and Dr. Arvind Venkateraman
+
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
     -   Two day workshops in collaboration with other instructors on
@@ -185,14 +194,6 @@ current: http://www.byronjsmith.com/resume.html
     -   Invited to teach a half-day lesson titled
         _GNU Make for Reproducible Analysis Pipelines_
     -   Workshop Organizer: Dr. C. Titus Brown
-
--   [2015] Graduate Student Instructor,
-    **Introductory Biology Lab: The Human Microbiome**,
-    University of Michigan
-    -   Assisted for two semesters in designing and running laboratory
-        activities and lectures for a novel, research based, introductory
-        biology lab
-    -   Course Instructor: Dr. Arvind Venkateraman and Dr. Thomas M. Schmidt
 
 -   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
     University of Michigan
