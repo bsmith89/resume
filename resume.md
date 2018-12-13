@@ -93,12 +93,11 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Education ##
 
--   [2013-present] **University of Michigan**, Ann Arbor, MI
-    -   Ph.D. Candidate, Ecology and Evolutionary Biology
+-   [2013-2018] **University of Michigan**, Ann Arbor, MI
+    -   Ph.D. in Ecology and Evolutionary Biology
     -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
     -   GPA: 4.0
     -   Research Advisor: Dr. Thomas M. Schmidt
-    -   Expected Graduation in Fall of 2018
 
 -   [2011-2013] **Michigan State University**, East Lansing, MI
     -   Graduate student, Microbiology and Molecular Genetics
@@ -141,10 +140,13 @@ current: http://www.byronjsmith.com/resume.html
 -   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
     Societies
 
-## Research ##
+## Research Training ##
+
+-   Advisor: Dr. Katherine S. Pollard
+    -   [2019-Present] University of California, San Fracisco
 
 -   Advisor: Dr. Thomas M. Schmidt
-    -   [2012-Present] Michigan State University and University of Michigan
+    -   [2012-2018] Michigan State University and University of Michigan
 
 -   Advisor: Dr. Margaret S. Saha
     -   [2008-2011] The College of William \& Mary
