@@ -230,7 +230,7 @@ current: http://www.byronjsmith.com/resume.html
         students
 
 -   [2016] Graduate Student Representative to the Department of Ecology
-    and Evolutionary Biology **Executive Committee** during the Fall Term
+    and Evolutionary Biology **Executive Committee** during the fall term
 
 -   [2014-2015] Graduate Student Representative to the
     Department of Ecology and Evolutionary Biology **Seminar Committee**
