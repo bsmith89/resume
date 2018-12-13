@@ -5,13 +5,14 @@ email: me@byronjsmith.com
 twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
+orcid: 0000-0002-0182-404X
 website: http://blog.byronjsmith.com
 header-includes:
     \usepackage{fullpage}
 
 analytics: UA-40659359-4
 
-version: 2018-12-13
+version: 2018-12-13b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -21,6 +22,11 @@ current: http://www.byronjsmith.com/resume.html
     diverse data towards understanding complex microbial communities.
 
 ## Publications ##
+
+-   [in preperation]
+    **B.J. Smith**, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
+    metagenomes suggest genetic drivers of differential response to acarbose
+    treatment in mice.
 
 -   [2018 preprint]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
