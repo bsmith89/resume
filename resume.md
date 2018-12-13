@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2018-12-13b
+version: 2018-12-13c
 current: http://www.byronjsmith.com/resume.html
 ...
 
