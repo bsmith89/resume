@@ -169,7 +169,7 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Teaching ##
 
--   [2018, 2015] Graduate Student Instructor,
+-   [2015, 2018] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
     University of Michigan
     -   Assisted during three semesters in designing and running laboratory
@@ -221,7 +221,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
 
--   [2016-present] **University of Michigan Software Carpentry** group member
+-   [2016-2018] **University of Michigan Software Carpentry** group member
     -   Actively involved in developing a community of Software and Data
         Carpentry instructors, learners, and advocates
 
