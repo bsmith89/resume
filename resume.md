@@ -60,7 +60,7 @@ current: http://www.byronjsmith.com/resume.html
         Louisiana
 
 -   [2017] "Automating reproducible data analysis pipelines with Snakemake"
-    (invited talk),
+    ([invited talk](http://blog.byronjsmith.com/snakemake-analysis.html)),
     **Department of Research Computing - Joint User Groups Meeting**,
     Boise State University
 
@@ -201,7 +201,7 @@ current: http://www.byronjsmith.com/resume.html
     **Bodega Marine Laboratory Bioinformatics Workshop**,
     hosted by the University of California, Davis
     -   Invited to teach a half-day lesson titled
-        _GNU Make for Reproducible Analysis Pipelines_
+        [_GNU Make for Reproducible Analysis Pipelines_](http://blog.byronjsmith.com/make-analysis.html)
     -   Workshop Organizer: Dr. C. Titus Brown
 
 -   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
