@@ -101,6 +101,9 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2013-2018] **University of Michigan**, Ann Arbor, MI
     -   Ph.D. in Ecology and Evolutionary Biology
+    -   [Dissertation](http://byronjsmith.com/dissertation.pdf): "Integrated
+        Analysis of the Gut Microbiota and Their Fermentation Products in Mice
+        Treated with the Longevity Enhancing Drug Acarbose"
     -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
     -   GPA: 4.0
     -   Research Advisor: Dr. Thomas M. Schmidt
