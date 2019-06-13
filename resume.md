@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2019-06-13
+version: 2019-06-13b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -44,8 +44,8 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
--   [2019] "_Muribaculaceae_ Genomes Assembled from Metagenomes Suggest Genetic
-    Drivers of Differential Response to Acarbose Treatment in Mice" (poster),
+-   [2019] "_Muribaculaceae_ Genomes assembled from metagenomes suggest genetic
+    drivers of differential response to acarbose treatment in mice" (poster),
     **American Society for Microbiology - Microbe**, San Francisco, California
 
 -   "Changes in the gut microbiota and fermentation products associated
