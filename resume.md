@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2019-01-11
+version: 2019-06-13
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -28,12 +28,12 @@ current: http://www.byronjsmith.com/resume.html
     metagenomes suggest genetic drivers of differential response to acarbose
     treatment in mice.
 
--   [2018 preprint]
+-   [2018]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
     T.M. Schmidt. Changes in the gut microbiota and fermentation products
     associated with enhanced longevity in acarbose-treated mice.
     _bioRxiv_. doi:[10.1101/311456](https://doi.org/10.1101/311456)
-    (Submitted to _BMC Microbiology_)
+    (Also accepted in _BMC Microbiology_, 2019)
 
 -   [2015]
     S.F. Stoddard, **B.J. Smith**, R. Hein, B.R.K. Roller, T.M. Schmidt.
@@ -43,6 +43,10 @@ current: http://www.byronjsmith.com/resume.html
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2019] "_Muribaculaceae_ Genomes Assembled from Metagenomes Suggest Genetic
+    Drivers of Differential Response to Acarbose Treatment in Mice" (poster),
+    **American Society for Microbiology - Microbe**, San Francisco, California
 
 -   "Changes in the gut microbiota and fermentation products associated
     with enhanced longevity in acarbose-treated mice."
@@ -172,14 +176,6 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Teaching ##
 
--   [2015, 2018] Graduate Student Instructor,
-    **Introductory Biology Lab: The Human Microbiome**,
-    University of Michigan
-    -   Assisted during three semesters in designing and running laboratory
-        activities and lectures for a novel, research based, introductory
-        biology lab
-    -   Course Instructors: Dr. Thomas M. Schmidt, Dr. Kristi MacCready,
-        and Dr. Arvind Venkateraman
 
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
@@ -192,6 +188,15 @@ current: http://www.byronjsmith.com/resume.html
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University,
         Lawrence Berkeley National Laboratory
+
+-   [2015, 2018] Graduate Student Instructor,
+    **Introductory Biology Lab: The Human Microbiome**,
+    University of Michigan
+    -   Assisted during three semesters in designing and running laboratory
+        activities and lectures for a novel, research based, introductory
+        biology lab
+    -   Course Instructors: Dr. Thomas M. Schmidt, Dr. Kristi MacCready,
+        and Dr. Arvind Venkateraman
 
 -   [2017] Teaching Assistant,
     **Data Intensive Biology Summer Research Institute** hosted by
@@ -221,6 +226,8 @@ current: http://www.byronjsmith.com/resume.html
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+
+-   [2019-present] **Gladstone Postdoc Advisory Committee** member
 
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
 
