@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2019-06-13b
+version: 2019-08-22
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,17 +23,17 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [in preperation]
+-   [in prep]
     **B.J. Smith**, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
     treatment in mice.
 
--   [2018]
+-   [2019]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
-    T.M. Schmidt. Changes in the gut microbiota and fermentation products
-    associated with enhanced longevity in acarbose-treated mice.
-    _bioRxiv_. doi:[10.1101/311456](https://doi.org/10.1101/311456)
-    (Also accepted in _BMC Microbiology_, 2019)
+    T.M. Schmidt. Changes in the gut microbiome and fermentation products
+    concurrent with enhanced longevity in acarbose-treated mice.
+    _BMC Microbiology_.
+    doi:[10.1186/s12866-019-1494-7](https://doi.org/10.1186/s12866-019-1494-7)
 
 -   [2015]
     S.F. Stoddard, **B.J. Smith**, R. Hein, B.R.K. Roller, T.M. Schmidt.
@@ -45,7 +45,8 @@ current: http://www.byronjsmith.com/resume.html
 ## Posters and Presentations ##
 
 -   [2019] "_Muribaculaceae_ Genomes assembled from metagenomes suggest genetic
-    drivers of differential response to acarbose treatment in mice" (poster),
+    drivers of differential response to acarbose treatment in mice"
+    ([poster](https://byronjsmith.com/asm2019_poster.pdf)),
     **American Society for Microbiology - Microbe**, San Francisco, California
 
 -   "Changes in the gut microbiota and fermentation products associated
@@ -54,17 +55,18 @@ current: http://www.byronjsmith.com/resume.html
     -   [2018] \(invited talk\)
         **Pollard Lab Meeting**, University of California,
         San Francisco, invited by Dr. Katherine Pollard
-    -   [2018] \([poster](http://byronjsmith.com/keystone18X3_poster.pdf)\)
+    -   [2018] \([poster](https://byronjsmith.com/keystone18X3_poster.pdf)\)
         **Keystone Symposium on Manipulation of the Gut
         Microbiota for Metabolic Health**, Banff, Alberta
-    -   [2017] \(invited talk\) **Lynch Lab Meeting**, University of California, San Francisco,
-        invited by Dr. Susan Lynch
-    -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of Michigan
-    -   [2017] \(poster\) **American Society for Microbiology - Microbe**, New Orleans,
-        Louisiana
+    -   [2017] \(invited talk\) **Lynch Lab Meeting**,
+        University of California, San Francisco, invited by Dr. Susan Lynch
+    -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of
+        Michigan
+    -   [2017] \(poster\) **American Society for Microbiology - Microbe**,
+        New Orleans, Louisiana
 
 -   [2017] "Automating reproducible data analysis pipelines with Snakemake"
-    ([invited talk](http://blog.byronjsmith.com/snakemake-analysis.html)),
+    ([invited talk](https://blog.byronjsmith.com/snakemake-analysis.html)),
     **Department of Research Computing - Joint User Groups Meeting**,
     Boise State University
 
@@ -105,7 +107,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2013-2018] **University of Michigan**, Ann Arbor, MI
     -   Ph.D. in Ecology and Evolutionary Biology
-    -   [Dissertation](http://byronjsmith.com/dissertation.pdf): "Integrated
+    -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
         Analysis of the Gut Microbiota and Their Fermentation Products in Mice
         Treated with the Longevity Enhancing Drug Acarbose"
     -   Embedded Masters in Ecology and Evolutionary Biology, granted in 2016
@@ -174,8 +176,8 @@ current: http://www.byronjsmith.com/resume.html
     control mice
     -   Associated metabolite profiles and longevity data also available
 
-## Teaching ##
 
+## Teaching ##
 
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
@@ -187,7 +189,7 @@ current: http://www.byronjsmith.com/resume.html
     -   Workshops at Stanford University, Harvard Medical School, University of
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University,
-        Lawrence Berkeley National Laboratory
+        Lawrence Berkeley National Laboratory, and Genentech
 
 -   [2015, 2018] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
@@ -209,7 +211,7 @@ current: http://www.byronjsmith.com/resume.html
     **Bodega Marine Laboratory Bioinformatics Workshop**,
     hosted by the University of California, Davis
     -   Invited to teach a half-day lesson titled
-        [_GNU Make for Reproducible Analysis Pipelines_](http://blog.byronjsmith.com/make-analysis.html)
+        [_GNU Make for Reproducible Analysis Pipelines_](https://blog.byronjsmith.com/make-analysis.html)
     -   Workshop Organizer: Dr. C. Titus Brown
 
 -   [2014] Teaching Assistant, **Software Carpentry Bootcamp**,
@@ -228,6 +230,8 @@ current: http://www.byronjsmith.com/resume.html
 ## Service and Outreach ##
 
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
+    -  Serve as an advocate for postdoc issues at the Gladstone Institutes, and
+       involved in planning and executing several activities and events
 
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
 
