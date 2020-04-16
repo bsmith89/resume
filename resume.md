@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2019-08-22
+version: 2020-04-16
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -43,6 +43,15 @@ current: http://www.byronjsmith.com/resume.html
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2020] "Strain-level bacterial reconstruction and inference in patients
+    receiving fecal microbiota transplantation for ulcerative colitis" (talk)
+    **Microbiome Ignite Series**, University of California, San Francisco
+
+-   [2019] "Improved methods for strain-specific genome reconstruction"
+    ([lightning talk](https://docs.google.com/presentation/d/1eqoSFUvVxjUa62UKwePIsZUtkjKbJ85RDiSuhNuu_qU))
+    **Chan Zuckerberg Biohub Inter-lab Confab**,
+    San Francisco, California
 
 -   [2019] "_Muribaculaceae_ Genomes assembled from metagenomes suggest genetic
     drivers of differential response to acarbose treatment in mice"
