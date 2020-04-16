@@ -229,6 +229,11 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Service and Outreach ##
 
+-   [2019] UCSF Library Reproducibility for Biomedical Researchers Panelist
+    -  Participated in the opening session of the Reproducibility Workshop
+       Series as an expert panelist working to improve reproducibility in
+       my work
+
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Serve as an advocate for postdoc issues at the Gladstone Institutes, and
        involved in planning and executing several activities and events
