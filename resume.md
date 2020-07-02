@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2020-04-16
+version: 2020-07-01
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,10 +23,19 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [in prep]
-    **B.J. Smith**, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
+-   [2020]
+    **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice.
+    treatment in mice. _bioRxiv_ ([preprint](https://byronjsmith.com/smith2020_biorxiv_muribaculaceae_mags.pdf))
+
+-   [2020]
+    N. El-Nachef, **B.J. Smith**, Y. Piceno, M. Zydek, L.
+    Syriani, J.P. Terdiman, A. Ma, Z. Kassam, K. Pollard, S. Lynch.
+    Antibiotic pretreatment prior to fecal microbiota transplantation increases
+    rates of remission in patients with mild to moderate ulcerative colitis:
+    Results from a pilot randomized clinical trial.
+    Digestive Disease Week Abstract (_Gastroenterology_)
+    doi:[10.1016/S0016-5085(20)30716-2](https://doi.org/10.1016/S0016-5085(20)30716-2)
 
 -   [2019]
     **B.J. Smith**, R.A. Miller, A.A. Ericsson, R. Strong, D.E. Harrison,
