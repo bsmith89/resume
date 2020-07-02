@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2020-07-01
+version: 2020-07-02
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -27,7 +27,7 @@ current: http://www.byronjsmith.com/resume.html
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
     treatment in mice. _bioRxiv_
-    ([preprint](https://byronjsmith.com/smith20_biorxiv.pdf))
+    doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2020]
     N. El-Nachef, **B.J. Smith**, Y. Piceno, M. Zydek, L.
