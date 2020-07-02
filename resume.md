@@ -26,7 +26,8 @@ current: http://www.byronjsmith.com/resume.html
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ ([preprint](https://byronjsmith.com/smith2020_biorxiv_muribaculaceae_mags.pdf))
+    treatment in mice. _bioRxiv_
+    ([preprint](https://byronjsmith.com/smith20_biorxiv.pdf))
 
 -   [2020]
     N. El-Nachef, **B.J. Smith**, Y. Piceno, M. Zydek, L.
@@ -54,11 +55,12 @@ current: http://www.byronjsmith.com/resume.html
 ## Posters and Presentations ##
 
 -   [2020] "Strain-level bacterial reconstruction and inference in patients
-    receiving fecal microbiota transplantation for ulcerative colitis" (talk)
+    receiving fecal microbiota transplantation for ulcerative colitis"
+    ([talk](https://byronjsmith.com/ignite2020_slides.pdf))
     **Microbiome Ignite Series**, University of California, San Francisco
 
 -   [2019] "Improved methods for strain-specific genome reconstruction"
-    ([lightning talk](https://docs.google.com/presentation/d/1eqoSFUvVxjUa62UKwePIsZUtkjKbJ85RDiSuhNuu_qU))
+    ([lightning talk](https://byronjsmith.com/biohubconfab2019_slides.pdf))
     **Chan Zuckerberg Biohub Inter-lab Confab**,
     San Francisco, California
 
