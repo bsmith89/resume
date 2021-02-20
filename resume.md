@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2020-07-02
+version: 2021-02-12
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -23,10 +23,16 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
+-   [in prep]
+    **B.J. Smith**, M. Zydek, L. Syriani, J.P. Terdiman,
+    Y. Piceno, Z. Kassam, A. Ma, S. Lynch, K. Pollard, N. El-Nachef.
+    Efficacy and engraftment of fecal microbiota transplant with antibiotic
+    pretreatment and maintenance dosing in ulcerative colitis.
+
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_
+    treatment in mice. _bioRxiv_ (in review at mSphere)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2020]
@@ -35,7 +41,7 @@ current: http://www.byronjsmith.com/resume.html
     Antibiotic pretreatment prior to fecal microbiota transplantation increases
     rates of remission in patients with mild to moderate ulcerative colitis:
     Results from a pilot randomized clinical trial.
-    Digestive Disease Week Abstract (_Gastroenterology_)
+    _Gastroenterology_ (Digestive Disease Week Abstract)
     doi:[10.1016/S0016-5085(20)30716-2](https://doi.org/10.1016/S0016-5085(20)30716-2)
 
 -   [2019]
@@ -53,6 +59,10 @@ current: http://www.byronjsmith.com/resume.html
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2020] "Identifying and tracking bacterial strains in metagenomic libraries"
+    ([talk](https://byronjsmith.com/toolstech2020.pdf))
+    **Tool & Tech RIPS**, The Gladstone Institutes, San Francisco, California
 
 -   [2020] "Strain-level bacterial reconstruction and inference in patients
     receiving fecal microbiota transplantation for ulcerative colitis"
@@ -74,12 +84,12 @@ current: http://www.byronjsmith.com/resume.html
     Presented at:
     -   [2018] \(invited talk\)
         **Pollard Lab Meeting**, University of California,
-        San Francisco, invited by Dr. Katherine Pollard
+        San Francisco, invited by Dr. Katherine S. Pollard
     -   [2018] \([poster](https://byronjsmith.com/keystone18X3_poster.pdf)\)
         **Keystone Symposium on Manipulation of the Gut
         Microbiota for Metabolic Health**, Banff, Alberta
     -   [2017] \(invited talk\) **Lynch Lab Meeting**,
-        University of California, San Francisco, invited by Dr. Susan Lynch
+        University of California, San Francisco, invited by Dr. Susan V. Lynch
     -   [2017] \(talk\) **Microbiome Group Seminar Series**, University of
         Michigan
     -   [2017] \(poster\) **American Society for Microbiology - Microbe**,
@@ -192,24 +202,34 @@ current: http://www.byronjsmith.com/resume.html
 ## Public Datasets ##
 
 -   [PRJNA448009](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA448009):
-    16S rRNA gene libraries of fecal samples from acarbose treated and
-    control mice
-    -   Associated metabolite profiles and longevity data also available
-
+    Paired metagenomes and 16S rRNA gene libraries of fecal samples from
+    acarbose treated and control mice, as well as carefully curated
+    metagenome assembled genomes from nine members of the understudied
+    bacterial family, the _Muribaculaceae_
+    -   Associated metabolite profiles and mouse longevity data are also available
 
 ## Teaching ##
 
 -   [2015-present] Instructor,
     **Software Carpentry Bootcamps**,
-    -   Two day workshops in collaboration with other instructors on
+    -   Co-taught over a dozen workshops on
         computing skills for researchers: programming, the command-line
         version control, data management, etc.
-    -   Students are early career scientists (primarily postdocs and graduate
-        students)
+    -   Students are postdocs, graduate students, faculty, etc.
     -   Workshops at Stanford University, Harvard Medical School, University of
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University,
         Lawrence Berkeley National Laboratory, and Genentech
+    -   Contributor to development of shared teaching materials,
+        notably lessons on the tools `git` and `make`.
+
+-   [2020] Guest Lecturer,
+    **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
+    -   Prepared and presented an interactive lesson titled
+        [_Brief Introduction to Bayesian Inference_](https://byronjsmith.com/bmi206_bayesian.pdf)
+        to first year PhD students in the Biological and Medical
+        Informatics Graduate Program
+    -   Course Instructor: Dr. Katherine S. Pollard
 
 -   [2015, 2018] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
@@ -249,13 +269,13 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Service and Outreach ##
 
--   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
-
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
-    -  Serve as an advocate for postdoc issues at the Gladstone Institutes, and
+    -  Serve as an advocate for postdoc issues at the Gladstone Institutes,
        involved in planning and executing several activities and events
 
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
+
+-   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
 -   [2016-2018] **University of Michigan Software Carpentry** group member
     -   Actively involved in developing a community of Software and Data
