@@ -62,7 +62,7 @@ current: http://www.byronjsmith.com/resume.html
 
 -   [2020] "Identifying and tracking bacterial strains in metagenomic libraries"
     ([talk](https://byronjsmith.com/toolstech2020.pdf))
-    **Tool & Tech RIPS**, The Gladstone Institutes, San Francisco, California
+    **Tools & Tech RIPS**, The Gladstone Institutes, San Francisco, California
 
 -   [2020] "Strain-level bacterial reconstruction and inference in patients
     receiving fecal microbiota transplantation for ulcerative colitis"
