@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-02-22
+version: 2021-06-14
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -212,6 +212,11 @@ current: http://www.byronjsmith.com/resume.html
     metagenome assembled genomes from nine members of the understudied
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
+
+-   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
+    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
+    patients receiving fecal microbiota transplants with and without antibiotic
+    pretreatment and with maintenance dosing via either capsules or enema.
 
 ## Teaching ##
 
