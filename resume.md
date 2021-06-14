@@ -60,6 +60,11 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Posters and Presentations ##
 
+-   [2021] "Bacterial genotype deconvolution in shotgun
+    metagenomic reads using fuzzy genotypes"
+    ([poster](https://byronjsmith.com/probgen2021_poster.pdf))
+    **Probabilistic Modeling in Genomics**, Cold Spring Harbor Lab
+
 -   [2020] "Identifying and tracking bacterial strains in metagenomic libraries"
     ([talk](https://byronjsmith.com/toolstech2020.pdf))
     **Tools & Tech RIPS**, The Gladstone Institutes, San Francisco, California
