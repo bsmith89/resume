@@ -208,18 +208,18 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Public Datasets ##
 
+-   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
+    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
+    patients receiving fecal microbiota transplants with and without antibiotic
+    pretreatment and with maintenance dosing via either capsules or enema.
+    -   Associated bile acid profiles are also available
+
 -   [PRJNA448009](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA448009):
     Paired metagenomes and 16S rRNA gene libraries of fecal samples from
     acarbose treated and control mice, as well as carefully curated
     metagenome assembled genomes from nine members of the understudied
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
-
--   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
-    Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
-    patients receiving fecal microbiota transplants with and without antibiotic
-    pretreatment and with maintenance dosing via either capsules or enema.
-    -   Associated bile acid profiles are also available
 
 
 ## Teaching ##
