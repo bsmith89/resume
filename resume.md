@@ -23,11 +23,13 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Publications ##
 
--   [in prep]
-    **B.J. Smith**, M. Zydek, L. Syriani, J.P. Terdiman,
-    Y. Piceno, Z. Kassam, A. Ma, S. Lynch, K. Pollard, N. El-Nachef.
-    Efficacy and engraftment of fecal microbiota transplant with antibiotic
-    pretreatment and maintenance dosing in ulcerative colitis.
+-   [2021]
+    **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
+    J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
+    Clinical efficacy and increased donor strain engraftment after antibiotic
+    pretreatment in a randomized trial of ulcerative colitis patients receiving
+    fecal microbiota transplant. _medRxiv_ (submitted to Scientific Reports)
+    doi:[TBD](https://byronjsmith.com/ucfmt2021_paper.pdf)
 
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
@@ -217,6 +219,8 @@ current: http://www.byronjsmith.com/resume.html
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
     patients receiving fecal microbiota transplants with and without antibiotic
     pretreatment and with maintenance dosing via either capsules or enema.
+    -   Associated bile acid profiles are also available
+
 
 ## Teaching ##
 
