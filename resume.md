@@ -221,7 +221,6 @@ current: http://www.byronjsmith.com/resume.html
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
 
-
 ## Teaching ##
 
 -   [2015-present] Instructor,
