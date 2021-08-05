@@ -282,12 +282,11 @@ current: http://www.byronjsmith.com/resume.html
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
-
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Serve as an advocate for postdoc issues at the Gladstone Institutes,
        involved in planning and executing several activities and events
 
--   [2018-present] **Software Carpentry Curriculum Advisory Committee** member
+-   [2018-2020] **Software Carpentry Curriculum Advisory Committee** member
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
