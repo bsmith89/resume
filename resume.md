@@ -12,7 +12,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-08-05
+version: 2021-08-10
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,7 +29,7 @@ current: http://www.byronjsmith.com/resume.html
     Clinical efficacy and increased donor strain engraftment after antibiotic
     pretreatment in a randomized trial of ulcerative colitis patients receiving
     fecal microbiota transplant. _medRxiv_ (submitted to Scientific Reports)
-    doi:[TBD](https://byronjsmith.com/ucfmt2021_paper.pdf)
+    doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
 
 -   [2020]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
