@@ -1,5 +1,5 @@
 ---
-name: Byron J. Smith
+name: Byron J. Smith, PhD
 
 email: me@byronjsmith.com
 twitter: ByronJSmith
@@ -14,14 +14,14 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-08-10
+version: 2021-08-18
 current: http://www.byronjsmith.com/resume.html
 ...
 
 ## Research Focus ##
 
--   I develop and use bioinformatic tools and statistical models to integrate
-    diverse data towards understanding complex microbial communities.
+I develop and use bioinformatic tools and statistical models to integrate
+diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
@@ -127,11 +127,11 @@ current: http://www.byronjsmith.com/resume.html
 ## Grants and Fellowships ##
 
 -   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Fellowship
-    -   Co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
+    co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
-    grant which was funded for $50,000
-    -   Principal Investigator: Dr. Thomas M. Schmidt
+    grant which was funded for $50,000.
+    Principal Investigator: Dr. Thomas M. Schmidt
 
 -   [2013-2014] UM Ecology & Evolutionary Biology Departmental Block Grant
 
@@ -196,17 +196,17 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Research Training ##
 
--   Advisor: Dr. Katherine S. Pollard
-    -   [2019-Present] University of California, San Fracisco
+-   [2019-Present] Advised by **Dr. Katherine S. Pollard**
+    at the University of California, San Fracisco
 
--   Advisor: Dr. Thomas M. Schmidt
-    -   [2012-2018] Michigan State University and University of Michigan
+-   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
+    at Michigan State University and University of Michigan
 
--   Advisor: Dr. Margaret S. Saha
-    -   [2008-2011] The College of William \& Mary
+-   [2008-2011] Advised by **Dr. Margaret S. Saha**
+    at The College of William \& Mary
 
--   Advisor: Dr. Mary A. Voytek
-    -   [2006-2007] The United States Geological Survey
+-   [2006-2007] Advised by **Dr. Mary A. Voytek**
+    at the United States Geological Survey
 
 ## Public Datasets ##
 
