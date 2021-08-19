@@ -30,7 +30,7 @@ resume.html: resume.md resume.html5.template
            --output=$@ $(word 1,$^)
 
 resume.pdf: resume.md resume.latex.template
-	pandoc --to=latex --template=$(word 2,$^) --output=$@ $(word 1,$^)
+	pandoc --to=latex --pdf-engine=lualatex -V fontsize=12pt --template=$(word 2,$^) --output=$@ $(word 1,$^)
 
 %.docx: %.md
 	pandoc $< -o $@

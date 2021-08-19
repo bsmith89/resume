@@ -9,6 +9,8 @@ orcid: 0000-0002-0182-404X
 website: http://blog.byronjsmith.com
 header-includes:
     \usepackage{fullpage}
+    \usepackage{fontspec}
+    \setmainfont{Arial}
 
 analytics: UA-40659359-4
 
