@@ -30,7 +30,7 @@ diverse data towards understanding complex microbial communities.
     J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
     Clinical efficacy and increased donor strain engraftment after antibiotic
     pretreatment in a randomized trial of ulcerative colitis patients receiving
-    fecal microbiota transplant. _medRxiv_ (submitted to Scientific Reports)
+    fecal microbiota transplant. _medRxiv_ (submitted to _Scientific Reports_)
     doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
 
 -   [2020]
@@ -165,7 +165,7 @@ diverse data towards understanding complex microbial communities.
     -   Graduated _Summa Cum Laude_
     -   GPA: 3.80 (overall) / 4.00 (major)
     -   Minor: Mathematics
-    -   Research Advisor: Dr. Margarete S. Saha
+    -   Research Advisor: Dr. Margaret S. Saha
 
 ### Select Coursework and Workshops ###
 
