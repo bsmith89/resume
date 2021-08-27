@@ -14,7 +14,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-08-18
+version: 2021-08-27
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -24,6 +24,11 @@ I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
 
 ## Publications ##
+
+-   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
+    and opportunities for using data to understand equitability in science.
+    _Cell Systems_
+    doi:[10.1016/j.cels.2021.08.005](https://doi.org/10.1016/j.cels.2021.08.005)
 
 -   [2021]
     **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
