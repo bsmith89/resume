@@ -14,7 +14,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-08-27
+version: 2021-09-20
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -24,6 +24,12 @@ I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
 
 ## Publications ##
+
+-   [2021]
+    **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
+    metagenomes suggest genetic drivers of differential response to acarbose
+    treatment in mice. _bioRxiv_ (submitted to mSphere)
+    doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
     and opportunities for using data to understand equitability in science.
@@ -37,12 +43,6 @@ diverse data towards understanding complex microbial communities.
     pretreatment in a randomized trial of ulcerative colitis patients receiving
     fecal microbiota transplant. _medRxiv_ (submitted to _Scientific Reports_)
     doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
-
--   [2020]
-    **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
-    metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (in revisions for mSphere)
-    doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2020]
     N. El-Nachef, **B.J. Smith**, Y. Piceno, M. Zydek, L.
@@ -289,8 +289,13 @@ diverse data towards understanding complex microbial communities.
 
 ## Service and Outreach ##
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
-    -  Serve as an advocate for postdoc issues at the Gladstone Institutes,
-       involved in planning and executing several activities and events
+    -  Advised Gladstone leadership and administration on postdoc issues,
+       involved in planning and executing several
+       activities and events
+    -  Lead postdoc advocacy efforts to increase representation, recruitment,
+       and retention of postdocs from communities historically
+       under-represented in the life sciences, which directly contributed to
+       the creation and implementation of the Gladstone DEI Strategic Plan.
 
 -   [2018-2020] **Software Carpentry Curriculum Advisory Committee** member
 
