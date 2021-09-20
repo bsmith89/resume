@@ -45,7 +45,7 @@ $for(header-includes)$
   $header-includes$
 $endfor$
 </head>
-<body>
+<body style="max-width: 700px; margin-left: 80px; margin-right: 80px; font-family: arial,sans-serif,auto;">
 $for(include-before)$
 $include-before$
 $endfor$
