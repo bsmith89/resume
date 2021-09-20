@@ -58,6 +58,7 @@ $endif$
   $if(email)$<a id="email-link" href="mailto:$email$">$email$</a> / $endif$
   $if(twitter)$<a id="twitter-link" href="https://twitter.com/$twitter$">@$twitter$</a> / $endif$
   $if(linkedin)$<a id="linkedin-link" href="https://www.linkedin.com/in/$linkedin$">LinkedIn</a> / $endif$
+  $if(gscholar)$<a id="gscholar-link" href="https://scholar.google.com/citations?user=$gscholar$">Google Scholar</a> / $endif$
   $if(orcid)$<a id="orcid-link" href="https://orcid.org/$orcid$">ORCiD</a> / $endif$
   $if(github)$<a id="github-link" href="https://github.com/$github$">Github</a> / $endif$
   $if(website)$<a id="website-link" href="$website$">Website</a> / $endif$

@@ -6,6 +6,7 @@ twitter: ByronJSmith
 linkedin: bsmith89
 github: bsmith89
 orcid: 0000-0002-0182-404X
+gscholar: ZtIlAngAAAAJ
 website: http://blog.byronjsmith.com
 header-includes:
     \usepackage{fullpage}

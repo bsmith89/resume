@@ -202,6 +202,7 @@ $endif$
     $if(email)$ \item \href{mailto:$email$}{$email$} $endif$
     $if(twitter)$ \item \href{https://twitter.com/$twitter$}{@$twitter$} $endif$
     $if(linkedin)$ \item \href{https://www.linkedin.com/in/$linkedin$}{LinkedIn} $endif$
+    $if(gscholar)$ \item \href{https://scholar.google.com/citations?user=$gscholar$}{Google Scholar} $endif$
     $if(orcid)$ \item \href{https://orcid.org/$orcid$}{ORCiD} $endif$
     $if(github)$ \item \href{https://github.com/$github$}{Github} $endif$
     $if(website)$ \item \href{$website$}{Website} $endif$
