@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-09-20
+version: 2021-10-13
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,7 +29,7 @@ diverse data towards understanding complex microbial communities.
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (submitted to mSphere)
+    treatment in mice. _bioRxiv_ (revised and resubmitted to mSphere)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
@@ -131,6 +131,10 @@ diverse data towards understanding complex microbial communities.
     The College of William \& Mary
 
 ## Grants and Fellowships ##
+
+-   [2021-2022] Computational Innovation Post-doctoral Fellowship
+    for my proposal, "Strain-resolved microbiome-wide association studies for
+    the discovery of hidden, microbial drivers of disease", funded for $75,000
 
 -   [2016-2018] Integrated Training in Microbial Systems (ITiMS) Fellowship
     co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
