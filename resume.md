@@ -28,7 +28,7 @@ diverse data towards understanding complex microbial communities.
 
 -   [in prep]
     **B.J. Smith**, X. Li, Z. Shi, A. Abate, K.S. Pollard. Scalable bacterial
-    strain inference in metagenomic data using fuzzy haplotypes.
+    strain inference in metagenomic data using fuzzy genotypes.
     (for submission to _Frontiers in Bioinformatics_)
 
 -   [2021]
