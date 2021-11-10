@@ -27,7 +27,7 @@ diverse data towards understanding complex microbial communities.
 ## Publications ##
 
 -   [in prep]
-    **B.J. Smith**, X. Li, Z. Shi, A. Abate, K.S. Pollard. Scalable bacterial
+    **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable bacterial
     strain inference in metagenomic data using fuzzy genotypes.
     (for submission to _Frontiers in Bioinformatics_)
 
