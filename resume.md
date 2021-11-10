@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-10-13
+version: 2021-11-10
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -26,10 +26,15 @@ diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
+-   [in prep]
+    **B.J. Smith**, X. Li, Z. Shi, A. Abate, K.S. Pollard. Scalable bacterial
+    strain inference in metagenomic data using fuzzy haplotypes.
+    (for submission to _Frontiers in Bioinformatics_)
+
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (revised and resubmitted to mSphere)
+    treatment in mice. _bioRxiv_ (revised and resubmitted to _mSphere_)
     doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
 
 -   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
@@ -69,6 +74,12 @@ diverse data towards understanding complex microbial communities.
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
 
 ## Posters and Presentations ##
+
+-   [2022 (upcoming)] "Scalable strain reconstruction and tracking in
+    metagenomic data with fuzzy genotypes"
+    ([abstract](https://byronjsmith.com/keystone2022_abstract.pdf))
+    Keystone Symposium: **The Human Microbiome: Ecology and Evolution**, Banff,
+    Alberta
 
 -   [2021] "Bacterial genotype deconvolution in shotgun
     metagenomic reads using fuzzy genotypes"
