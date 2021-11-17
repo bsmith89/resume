@@ -304,6 +304,9 @@ diverse data towards understanding complex microbial communities.
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+-   [2018-present] **Software Carpentry Curriculum Advisory Committee**
+    - [2021-present] Chair
+
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Advised Gladstone leadership and administration on postdoc issues,
        involved in planning and executing several
@@ -312,8 +315,6 @@ diverse data towards understanding complex microbial communities.
        and retention of postdocs from communities historically
        under-represented in the life sciences, which directly contributed to
        the creation and implementation of the Gladstone DEI Strategic Plan.
-
--   [2018-2020] **Software Carpentry Curriculum Advisory Committee** member
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
