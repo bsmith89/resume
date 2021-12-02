@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-11-16
+version: 2021-12-01
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -34,8 +34,8 @@ diverse data towards understanding complex microbial communities.
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
-    treatment in mice. _bioRxiv_ (accepted for publication at _mSphere_)
-    doi:[10.1101/2020.07.01.183202](https://doi.org/10.1101/2020.07.01.183202)
+    treatment in mice. _mSphere_
+    doi:[10.1128/msphere.00851-21](https://doi.org/10.1128/msphere.00851-21)
 
 -   [2021] **B.J. Smith**, K.S. Pollard. Evaluation of Le et al.: Challenges
     and opportunities for using data to understand equitability in science.
