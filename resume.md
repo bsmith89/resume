@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2021-12-01
+version: 2022-01-17
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -31,6 +31,14 @@ diverse data towards understanding complex microbial communities.
     strain inference in metagenomic data using fuzzy genotypes.
     (for submission to _Frontiers in Bioinformatics_)
 
+-   [2022]
+    **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
+    J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
+    Strain-resolved analysis in a randomized trial of antibiotic pretreatment
+    and maintenance dose delivery mode with fecal microbiota transplant for
+    ulcerative colitis. _medRxiv_ (submitted to _Scientific Reports_)
+    doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
+
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
     metagenomes suggest genetic drivers of differential response to acarbose
@@ -41,14 +49,6 @@ diverse data towards understanding complex microbial communities.
     and opportunities for using data to understand equitability in science.
     _Cell Systems_
     doi:[10.1016/j.cels.2021.08.005](https://doi.org/10.1016/j.cels.2021.08.005)
-
--   [2021]
-    **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
-    J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
-    Clinical efficacy and increased donor strain engraftment after antibiotic
-    pretreatment in a randomized trial of ulcerative colitis patients receiving
-    fecal microbiota transplant. _medRxiv_ (submitted to _Scientific Reports_)
-    doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
 
 -   [2020]
     N. El-Nachef, **B.J. Smith**, Y. Piceno, M. Zydek, L.
