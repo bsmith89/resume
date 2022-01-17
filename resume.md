@@ -305,7 +305,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Service and Outreach ##
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee**
-    - [2021-present] Chair
+    - [2022] Committee Chair
 
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Advised Gladstone leadership and administration on postdoc issues,
