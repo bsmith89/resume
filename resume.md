@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-01-17
+version: 2022-02-06
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -26,10 +26,11 @@ diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
--   [in prep]
-    **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable bacterial
-    strain inference in metagenomic data using fuzzy genotypes.
-    (for submission to _Frontiers in Bioinformatics_)
+-   [2022]
+    **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
+    strain inference in metagenomic data using StrainFacts. _bioRxiv_
+    (submitted to _Frontiers in Bioinformatics_)
+    doi:[10.1101/2022.02.01.478746](https://doi.org/10.1101/2022.02.01.478746)
 
 -   [2022]
     **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
@@ -75,11 +76,11 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [2022 (upcoming)] "Scalable strain reconstruction and tracking in
-    metagenomic data with fuzzy genotypes"
-    ([abstract](https://byronjsmith.com/keystone2022_abstract.pdf))
-    Keystone Symposium: **The Human Microbiome: Ecology and Evolution**, Banff,
-    Alberta
+-   [2022 (upcoming)]
+    "Scaling microbial strain inference to tens of thousands of metagenomes with fuzzy genotypes."
+    (invited talk)
+    Workshop on **Multiscale Microbial Communities: Dynamical Models, Ecology, and One Health**,
+    Institute for Mathematical and Statistical Innovation, Chicago, IL
 
 -   [2021] "Bacterial genotype deconvolution in shotgun
     metagenomic reads using fuzzy genotypes"
