@@ -29,7 +29,7 @@ diverse data towards understanding complex microbial communities.
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
     strain inference in metagenomic data using StrainFacts. _bioRxiv_
-    (submitted to _Frontiers in Bioinformatics_)
+    (in revisions for _Frontiers in Bioinformatics_)
     doi:[10.1101/2022.02.01.478746](https://doi.org/10.1101/2022.02.01.478746)
 
 -   [2022]
@@ -37,7 +37,7 @@ diverse data towards understanding complex microbial communities.
     J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
     Strain-resolved analysis in a randomized trial of antibiotic pretreatment
     and maintenance dose delivery mode with fecal microbiota transplant for
-    ulcerative colitis. _medRxiv_ (submitted to _Scientific Reports_)
+    ulcerative colitis. _medRxiv_ (in review at _Scientific Reports_)
     doi:[10.1101/2021.08.07.21261556](https://doi.org/10.1101/2021.08.07.21261556)
 
 -   [2021]
@@ -76,7 +76,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [2022 (upcoming)]
+-   [2022]
     "Scaling microbial strain inference to tens of thousands of metagenomes with fuzzy genotypes."
     (invited talk)
     Workshop on **Multiscale Microbial Communities: Dynamical Models, Ecology, and One Health**,
