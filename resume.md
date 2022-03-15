@@ -78,7 +78,7 @@ diverse data towards understanding complex microbial communities.
 
 -   [2022]
     "Scaling microbial strain inference to tens of thousands of metagenomes with fuzzy genotypes."
-    ([invited talk](https://byronjsmith.com/imsi2022_slides.pdf))
+    ([invited talk](https://byronjsmith.com/imsi2022_slides_with_notes.pdf))
     Workshop on **Multiscale Microbial Communities: Dynamical Models, Ecology, and One Health**,
     Institute for Mathematical and Statistical Innovation, Chicago, IL
 
