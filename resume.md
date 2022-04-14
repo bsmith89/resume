@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-04-09
+version: 2022-04-14
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,7 +29,7 @@ diverse data towards understanding complex microbial communities.
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
     strain inference in metagenomic data using StrainFacts. _bioRxiv_
-    (in review at _Frontiers in Bioinformatics_)
+    (in press at _Frontiers in Bioinformatics_)
     doi:[10.1101/2022.02.01.478746](https://doi.org/10.1101/2022.02.01.478746)
 
 -   [2022]
@@ -37,7 +37,8 @@ diverse data towards understanding complex microbial communities.
     J.P. Terdiman, Z. Kassam, A. Ma, S.V. Lynch, K.S. Pollard, N. El-Nachef.
     Strain-resolved analysis in a randomized trial of antibiotic pretreatment
     and maintenance dose delivery mode with fecal microbiota transplant for
-    ulcerative colitis. _Scientific Reports_ doi:[10.1038/s41598-022-09307-5](https://doi.org/10.1038/s41598-022-09307-5)
+    ulcerative colitis. _Scientific Reports_
+    doi:[10.1038/s41598-022-09307-5](https://doi.org/10.1038/s41598-022-09307-5)
 
 -   [2021]
     **B.J. Smith**, R.A. Miller, T.M. Schmidt. _Muribaculaceae_ genomes assembled from
