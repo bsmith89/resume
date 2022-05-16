@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-04-14
+version: 2022-05-16
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -28,9 +28,9 @@ diverse data towards understanding complex microbial communities.
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
-    strain inference in metagenomic data using StrainFacts. _bioRxiv_
-    (in press at _Frontiers in Bioinformatics_)
-    doi:[10.1101/2022.02.01.478746](https://doi.org/10.1101/2022.02.01.478746)
+    strain inference in metagenomic data using StrainFacts.
+    _Frontiers in Bioinformatics_
+    doi:[10.3389/fbinf.2022.867386](https://doi.org/10.3389/fbinf.2022.867386)
 
 -   [2022]
     **B.J. Smith**, Y.M. Piceno, M. Zydek, B. Zhang, L. Aboud Syriani,
