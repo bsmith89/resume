@@ -192,7 +192,7 @@ diverse data towards understanding complex microbial communities.
 ### Select Coursework and Workshops ###
 
 -   [2015]
-    **Train the Trainers: Teaching Adults Researchers to Program**,
+    **Train the Trainers: Teaching Adult Researchers to Program**,
     Michigan State University
 
 -   [2014] **Guarda Workshop in Evolutionary Biology**, University of Basel and
