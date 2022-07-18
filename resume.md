@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-05-26b
+version: 2022-07-18b
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -25,6 +25,11 @@ I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
 
 ## Publications ##
+
+-   [submitted] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
+    microbial communities with MIDAS2: from metagenomic reads to allele
+    frequency tables.
+    (submitted to _Current Protocols in Bioinformatics_)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
