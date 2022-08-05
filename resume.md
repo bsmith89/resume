@@ -81,6 +81,11 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
+-   [upcoming]
+    "Strain-resolved inference of microbial gene content in large metagenomic datasets."
+    ([submitted abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
+    **CSHL - Microbiome Meeting**, Cold Spring Harbor, NY
+
 -   [2022]
     "Scaling microbial strain inference to tens of thousands of metagenomes with fuzzy genotypes."
     ([invited talk](https://byronjsmith.com/imsi2022_slides_with_notes.pdf))
