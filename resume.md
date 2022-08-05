@@ -26,7 +26,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
--   [submitted] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
+-   [in review] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
     frequency tables.
     (submitted to _Current Protocols in Bioinformatics_)
