@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-07-18b
+version: 2022-08-05
 current: http://www.byronjsmith.com/resume.html
 ...
 
