@@ -183,10 +183,15 @@ diverse data towards understanding complex microbial communities.
 
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
-## Education ##
 
--   [2013-2018] **University of Michigan**, Ann Arbor, MI
-    -   Ph.D. in Ecology and Evolutionary Biology
+## Education and Professional Experience ##
+
+-   [2019-present] Postdoctoral Scholar
+    -   **Gladstone Institute** for Data Science and Biotechnology, San Francisco, CA
+    -   Research Advisor: Dr. Katherine S. Pollard
+
+-   [2013-2018] PhD in Ecology and Evolutionary Biology
+    -   **University of Michigan**, Ann Arbor, MI
     -   [Dissertation](https://byronjsmith.com/dissertation.pdf): "Integrated
         Analysis of the Gut Microbiota and Their Fermentation Products in Mice
         Treated with the Longevity Enhancing Drug Acarbose"
@@ -194,19 +199,21 @@ diverse data towards understanding complex microbial communities.
     -   GPA: 4.0
     -   Research Advisor: Dr. Thomas M. Schmidt
 
--   [2011-2013] **Michigan State University**, East Lansing, MI
-    -   Graduate student, Microbiology and Molecular Genetics
+-   [2011-2013] Graduate Student in Microbiology and Molecular Genetics
+    -   **Michigan State University**, East Lansing, MI
     -   GPA: 4.0
     -   Affiliate, BEACON Center for The Study of Evolution in Action
     -   Affiliate, Great Lakes Bioenergy Research Center
     -   Research Advisor: Dr. Thomas M. Schmidt
 
--   [2007-2011] **The College of William \& Mary**, Williamsburg, VA
-    -   B.S. Biology
+-   [2007-2011] Bachelor of Science in Biology
+    -   **The College of William \& Mary**, Williamsburg, VA
     -   Graduated _Summa Cum Laude_
     -   GPA: 3.80 (overall) / 4.00 (major)
     -   Minor: Mathematics
     -   Research Advisor: Dr. Margaret S. Saha
+
+
 
 ### Select Coursework and Workshops ###
 
