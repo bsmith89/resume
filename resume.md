@@ -331,6 +331,11 @@ diverse data towards understanding complex microbial communities.
     -   Course Instructor: Dr. Robert A. Britton
 
 ## Service and Outreach ##
+-   [2012-present] **Peer Reviewer**
+    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
+      _ISME_, and others.
+
 -   [2018-present] **Software Carpentry Curriculum Advisory Committee**
     - [2022] Committee Chair
 
