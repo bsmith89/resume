@@ -80,9 +80,19 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [upcoming]
+-   [2022 (upcoming)]
+    "Strain tracking and reconstruction in large metagenomic datasets."
+    (invited talk)
+    **Quantitative Biosciences Consortium Retreat**, Santa Cruz, CA
+
+-   [2022 (upcoming)] "Strain-resolved bacterial genome reconstruction in large, metagenomic datasets"
+    ([poster](https://byronjsmith.com/noyce_symposium_2022_poster.pdf))
+    **University of California Noyce Initiative Symposium**, Santa Barbara, CA
+
+-   [2022]
     "Strain-resolved inference of microbial gene content in large metagenomic datasets."
-    ([submitted abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
+    ([talk](https://byronjsmith.com/cshl_microbiome_2022_slides.pdf) /
+    [abstract](https://byronjsmith.com/cshl_microbiome_2022_abstract.pdf))
     **CSHL - Microbiome Meeting**, Cold Spring Harbor, NY
 
 -   [2022]
