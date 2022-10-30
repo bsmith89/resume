@@ -283,7 +283,7 @@ diverse data towards understanding complex microbial communities.
         Pennsylvania, University of California, San Francisco, University of
         New Hampshire, University of Michigan, Wayne State University,
         Lawrence Berkeley National Laboratory, and Genentech
-    -   Contributor to development of shared teaching materials,
+    -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
 
 -   [2020] Guest Lecturer,
