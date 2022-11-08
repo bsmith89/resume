@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-08-05
+version: 2022-11-08
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -80,12 +80,13 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [2022 (upcoming)]
+-   [2022]
     "Strain tracking and reconstruction in large metagenomic datasets."
-    (invited talk)
+    ([invited talk](https://byronjsmith.com/qbc_retreat_2022_slides.pdf))
     **Quantitative Biosciences Consortium Retreat**, Santa Cruz, CA
 
--   [2022 (upcoming)] "Strain-resolved bacterial genome reconstruction in large, metagenomic datasets"
+-   [2022] "Strain-resolved bacterial genome reconstruction in large,
+    metagenomic datasets"
     ([poster](https://byronjsmith.com/noyce_symposium_2022_poster.pdf))
     **University of California Noyce Initiative Symposium**, Santa Barbara, CA
 
