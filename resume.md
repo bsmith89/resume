@@ -28,7 +28,7 @@ diverse data towards understanding complex microbial communities.
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
-    requency tables. _Current Protocols in Bioinformatics_ (in press)
+    frequency tables. _Current Protocols in Bioinformatics_ (in press)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
@@ -245,7 +245,7 @@ diverse data towards understanding complex microbial communities.
 ## Research Training ##
 
 -   [2019-Present] Advised by **Dr. Katherine S. Pollard**
-    at the University of California, San Fracisco
+    at the University of California, San Francisco
 
 -   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
     at Michigan State University and University of Michigan
