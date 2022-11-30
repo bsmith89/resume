@@ -185,6 +185,18 @@ diverse data towards understanding complex microbial communities.
 -   [2008] Howard Hughes Medical Institute Freshman Research Grant
 
 
+## Honors and Awards ##
+
+-   [2011] Nominated for Michigan State University Distinguished Fellowship or
+    University Enrichment Fellowship
+
+-   [2007, 2008, 2009, 2011] The College of William \& Mary
+    Dean's List for Academic Excellence
+
+-   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
+    Societies
+
+
 ## Education and Professional Experience ##
 
 -   [2019-present] Postdoctoral Scholar
@@ -215,6 +227,20 @@ diverse data towards understanding complex microbial communities.
     -   Research Advisor: Dr. Margaret S. Saha
 
 
+## Research Training ##
+
+-   [2019-Present] Advised by **Dr. Katherine S. Pollard**
+    at the University of California, San Francisco
+
+-   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
+    at Michigan State University and University of Michigan
+
+-   [2008-2011] Advised by **Dr. Margaret S. Saha**
+    at The College of William \& Mary
+
+-   [2006-2007] Advised by **Dr. Mary A. Voytek**
+    at the United States Geological Survey
+
 
 ### Select Coursework and Workshops ###
 
@@ -232,30 +258,6 @@ diverse data towards understanding complex microbial communities.
 
 -   [2011] **Microbial Metagenomics Workshop**, Michigan State University
 
-## Honors and Awards ##
-
--   [2011] Nominated for Michigan State University Distinguished Fellowship or
-    University Enrichment Fellowship
-
--   [2007, 2008, 2009, 2011] The College of William \& Mary
-    Dean's List for Academic Excellence
-
--   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
-    Societies
-
-## Research Training ##
-
--   [2019-Present] Advised by **Dr. Katherine S. Pollard**
-    at the University of California, San Francisco
-
--   [2012-2018] Advised by **Dr. Thomas M. Schmidt**
-    at Michigan State University and University of Michigan
-
--   [2008-2011] Advised by **Dr. Margaret S. Saha**
-    at The College of William \& Mary
-
--   [2006-2007] Advised by **Dr. Mary A. Voytek**
-    at the United States Geological Survey
 
 ## Public Datasets ##
 
@@ -331,15 +333,8 @@ diverse data towards understanding complex microbial communities.
     Michigan State University
     -   Course Instructor: Dr. Robert A. Britton
 
+
 ## Service and Outreach ##
--   [2012-present] **Peer Reviewer**
-    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
-      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
-      _ISME_, and others.
-
--   [2018-present] **Software Carpentry Curriculum Advisory Committee**
-    - [2022] Committee Chair
-
 -   [2019-present] **Gladstone Postdoc Advisory Committee** member
     -  Advised Gladstone leadership and administration on postdoc issues,
        involved in planning and executing several
@@ -348,6 +343,14 @@ diverse data towards understanding complex microbial communities.
        and retention of postdocs from communities historically
        under-represented in the life sciences, which directly contributed to
        the creation and implementation of the Gladstone DEI Strategic Plan.
+
+-   [2018-present] **Software Carpentry Curriculum Advisory Committee**
+    - [2022] Committee Chair
+
+-   [2012-present] **Peer Reviewer**
+    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
+      _ISME_, and others.
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
