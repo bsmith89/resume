@@ -19,10 +19,12 @@ version: 2022-11-08
 current: http://www.byronjsmith.com/resume.html
 ...
 
+
 ## Research Focus ##
 
 I develop and use bioinformatic tools and statistical models to integrate
 diverse data towards understanding complex microbial communities.
+
 
 ## Publications ##
 
@@ -77,6 +79,7 @@ diverse data towards understanding complex microbial communities.
     Archaea and a new foundation for future development.
     _Nucleic Acids Research_.
     doi:[10.1093/nar/gku1201](https://doi.org/10.1093/nar/gku1201)
+
 
 ## Posters and Presentations ##
 
@@ -161,6 +164,7 @@ diverse data towards understanding complex microbial communities.
 -   [2010] "The role of calcium in neural phenotype differentiation in
     developing Xenopus" (poster), **Undergraduate Research Symposium**,
     The College of William \& Mary
+
 
 ## Grants and Fellowships ##
 
@@ -274,6 +278,7 @@ diverse data towards understanding complex microbial communities.
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
 
+
 ## Teaching ##
 
 -   [2015-present] Instructor,
@@ -288,6 +293,7 @@ diverse data towards understanding complex microbial communities.
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
+
 
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
