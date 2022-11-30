@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-11-08
+version: 2022-11-30
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -190,6 +190,14 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Honors and Awards ##
+
+-   [2022] Distinguished Achievement in Scientific Leadership Award from the
+    Gladstone Institute of Data Science and Biotechnology
+
+    -   This award is granted to exceptionally collaborative scientists who
+        take on leadership roles at Gladstone and demonstrate exemplary
+        collaboration, mentorship, and integrity that reaches beyond their own
+        lab
 
 -   [2011] Nominated for Michigan State University Distinguished Fellowship or
     University Enrichment Fellowship
