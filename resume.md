@@ -350,9 +350,9 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Service and Outreach ##
--   [2019-present] **Gladstone Postdoc Advisory Committee** member
+-   [2019-present] **Gladstone Postdoc Advisory Committee** organizer and member
     -  Advised Gladstone leadership and administration on postdoc issues,
-       involved in planning and executing several
+       involved in planning and executing numerous
        activities and events
     -  Lead postdoc advocacy efforts to increase representation, recruitment,
        and retention of postdocs from communities historically
