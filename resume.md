@@ -30,7 +30,8 @@ diverse data towards understanding complex microbial communities.
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
-    frequency tables. _Current Protocols in Bioinformatics_ (in press)
+    frequency tables. _Current Protocols in Bioinformatics_
+    doi:[10.1002/cpz1.604](https://doi.org/10.1002/cpz1.604)
 
 -   [2022]
     **B.J. Smith**, X. Li, Z.J. Shi, A. Abate, K.S. Pollard. Scalable microbial
