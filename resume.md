@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2022-12-05
+version: 2023-01-30
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -192,7 +192,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Honors and Awards ##
 
--   [2022] Distinguished Achievement in Scientific Leadership Award from the
+-   [2023] Distinguished Achievement in Scientific Leadership Award from the
     Gladstone Institute of Data Science and Biotechnology
 
     -   This award is granted to exceptionally collaborative scientists who
@@ -256,6 +256,13 @@ diverse data towards understanding complex microbial communities.
 
 
 ### Select Coursework and Workshops ###
+
+-   [2023]
+    **Scientific Leadership and Management**,
+    The Gladstone Institutes, San Francisco, CA
+    -  Three-week course designed for senior postdocs and junior faculty to
+       learn about "leadership styles, people management, inclusive leadership,
+       and conflict resolution".
 
 -   [2015]
     **Train the Trainers: Teaching Adult Researchers to Program**,
