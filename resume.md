@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2023-01-30
+version: 2023-02-16
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -260,7 +260,7 @@ diverse data towards understanding complex microbial communities.
 -   [2023]
     **Scientific Leadership and Management**,
     The Gladstone Institutes, San Francisco, CA
-    -  Three-week course designed for senior postdocs and junior faculty to
+    -  Three-day course designed for senior postdocs and junior faculty to
        learn about "leadership styles, people management, inclusive leadership,
        and conflict resolution".
 
@@ -293,6 +293,14 @@ diverse data towards understanding complex microbial communities.
     metagenome assembled genomes from nine members of the understudied
     bacterial family, the _Muribaculaceae_
     -   Associated metabolite profiles and mouse longevity data are also available
+
+
+## Formal Mentorship ##
+
+-   [2019 and 2023]
+    - Served as postdoc mentor for three rotations students enrolled in PhD
+      programs at UCSF each carrying out microbiome research in the Pollard Lab
+      over 10 weeks.
 
 
 ## Teaching ##
