@@ -393,7 +393,7 @@ diverse data towards understanding complex microbial communities.
     -   Actively involved in developing a community of Software and Data
         Carpentry instructors, learners, and advocates
 
--   [2017] **Models: at the intersection of data and discovery.**
+-   [2017] **Models: At the Intersection of Data and Discovery.**
     -   Collaborated in proposing a meeting for the directors
         and students of the Burroughs Wellcome Fund's Institutional Program
         Unifying Population and Laboratory Based Sciences
