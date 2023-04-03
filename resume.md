@@ -15,7 +15,7 @@ header-includes:
 
 analytics: UA-40659359-4
 
-version: 2023-02-16
+version: 2023-04-03
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -83,6 +83,12 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Posters and Presentations ##
+
+-   [2023 (upcoming)]
+    "Strain-resolved inference of microbial gene content in fecal microbiota
+    transplantation to treat ulcerative colitis."
+    ([poster](https:byronjsmith.com/rainin2023_abstract.pdf))
+    **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
 
 -   [2022]
     "Strain tracking and reconstruction in large metagenomic datasets."
@@ -366,7 +372,7 @@ diverse data towards understanding complex microbial communities.
 
 ## Service and Outreach ##
 -   [2019-present] **Gladstone Postdoc Advisory Committee** organizer and member
-    -  Advised Gladstone leadership and administration on postdoc issues,
+    -  Advised Gladstone leadership and administration on postdoc issues;
        involved in planning and executing numerous
        activities and events
     -  Lead postdoc advocacy efforts to increase representation, recruitment,
@@ -374,13 +380,13 @@ diverse data towards understanding complex microbial communities.
        under-represented in the life sciences, which directly contributed to
        the creation and implementation of the Gladstone DEI Strategic Plan.
 
--   [2018-present] **Software Carpentry Curriculum Advisory Committee**
-    - [2022] Committee Chair
-
 -   [2012-present] **Peer Reviewer**
     - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
       _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
       _ISME_, and others.
+
+-   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
+    - [2022-2023] Committee Chair
 
 -   [2019] **UCSF Library Reproducibility for Biomedical Researchers** panelist
 
