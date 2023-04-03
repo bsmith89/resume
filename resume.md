@@ -324,7 +324,6 @@ diverse data towards understanding complex microbial communities.
     -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
 
-
 -   [2020] Guest Lecturer,
     **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
     -   Prepared and presented an interactive lesson titled
