@@ -405,6 +405,7 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Service and Outreach ##
+
 -   [2019-present] **Gladstone Postdoc Advisory Committee** organizer and member
     -  Advised Gladstone leadership and administration on postdoc issues;
        involved in planning and executing numerous
