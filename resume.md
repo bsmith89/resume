@@ -312,10 +312,36 @@ diverse data towards understanding complex microbial communities.
 
 ## Formal Mentorship ##
 
--   [2019 and 2023]
-    - Served as postdoc mentor for three rotations students enrolled in PhD
-      programs at UCSF each carrying out microbiome research in the Pollard Lab
-      over 10 weeks.
+-   [2023] **Cindy Pino-Barrios**
+    (Rotation Student in Biological and Medical Informatics, UCSF)
+    - Served as a co-primary mentor during her 10-week rotation in the
+      Pollard Lab, where she initiated a project studying the use of
+      single-nucleotide polymorphisms in the core genome to predict the
+      presence/absence of functional gene families in a publicly available
+      reference genome collection. This project has become the basis for a
+      manuscript that is in preparation.
+    - Currently: Rotation Student working with Prof. Catherine Tcheandjieu, The
+      Gladstone Institutes
+
+-   [2023] **Claire Dubin**
+    (Rotation Student in Bioinformatics, UCSF)
+    - Served as a co-primary mentor during her 10-week rotation in the
+      Pollard Lab, where she initiated a project tracking strain-resolved
+      transmission outcomes in a large meta-study of fecal microbiota
+      transplantation experiments.
+    - Currently: Rotation Student at UCSF
+
+-   [2019] **Erin Gilbertson**
+    (Rotation Student in Biological and Medical Informatics, UCSF)
+    - Served as Erin's primary mentor during her 10-week
+      rotation in the Pollard Lab, where she worked on two separate
+      studies during that time: (1) the analysis of a longitudinal,
+      16S rRNA amplicon data in a pilot study comparing anti-TNF and
+      Vedolizumab treatments for ulcerative colitis patients, and (2)
+      a simulation study benchmarking the performance of StrainFinder,
+      software for the deconvolution of metagenotype data.
+    - Currently: PhD Candidate working with Prof. Tony Capra, UCSF
+
 
 
 ## Teaching ##
