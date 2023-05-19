@@ -90,6 +90,11 @@ diverse data towards understanding complex microbial communities.
     ([poster](https:byronjsmith.com/rainin2023_abstract.pdf))
     **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
 
+-   [2023 (upcoming)]
+    "Resolving strain-level gene content variation from large, metagenomic datasets"
+    ([poster](https:byronjsmith.com/grc_micropop_2023_abstract.pdf))
+    **Microbial Population Biology Gordon Research Conference**, Andover, NH
+
 -   [2022]
     "Strain tracking and reconstruction in large metagenomic datasets."
     ([invited talk](https://byronjsmith.com/qbc_retreat_2022_slides.pdf))
