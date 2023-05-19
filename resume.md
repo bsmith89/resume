@@ -290,7 +290,11 @@ diverse data towards understanding complex microbial communities.
 -   [2011] **Microbial Metagenomics Workshop**, Michigan State University
 
 
-## Public Datasets ##
+## Public Datasets and Software ##
+
+-   [StrainFacts](https://github.com/bsmith89/StrainFacts):
+    Computational method to identify and track microbial strains across large
+    numbers of metagenomic samples.
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
