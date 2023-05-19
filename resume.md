@@ -293,7 +293,7 @@ diverse data towards understanding complex microbial communities.
 ## Public Datasets and Software ##
 
 -   [StrainFacts](https://github.com/bsmith89/StrainFacts):
-    Computational method to identify and track microbial strains across large
+    Computational tool to identify and track microbial strains across large
     numbers of metagenomic samples.
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
