@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2023-05-19
+version: 2023-07-17
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -84,15 +84,15 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
--   [2023 (upcoming)]
+-   [2023]
     "Strain-resolved inference of microbial gene content in fecal microbiota
     transplantation to treat ulcerative colitis."
-    ([poster](https:byronjsmith.com/rainin2023_abstract.pdf))
+    ([poster](https://byronjsmith.com/rainin2023_poster.pdf) / [abstract](https://byronjsmith.com/rainin2023_abstract.pdf))
     **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
 
--   [2023 (upcoming)]
+-   [2023]
     "Resolving strain-level gene content variation from large, metagenomic datasets"
-    ([poster](https:byronjsmith.com/grc_micropop_2023_abstract.pdf))
+    ([poster](https://byronjsmith.com/microbialpop2023_poster.pdf) / [abstract](https://byronjsmith.com/grc_micropop_2023_abstract.pdf))
     **Microbial Population Biology Gordon Research Conference**, Andover, NH
 
 -   [2022]
@@ -320,8 +320,7 @@ diverse data towards understanding complex microbial communities.
       presence/absence of functional gene families in a publicly available
       reference genome collection. This project has become the basis for a
       manuscript that is in preparation.
-    - Currently: Rotation Student working with Prof. Catherine Tcheandjieu, The
-      Gladstone Institutes
+    - Currently: Graduate Student working with Prof. Katie Pollard, UCSF
 
 -   [2023] **Claire Dubin**
     (Rotation Student in Bioinformatics, UCSF)
@@ -329,7 +328,7 @@ diverse data towards understanding complex microbial communities.
       Pollard Lab, where she initiated a project tracking strain-resolved
       transmission outcomes in a large meta-study of fecal microbiota
       transplantation experiments.
-    - Currently: Rotation Student at UCSF
+    - Currently: Graduate Student, UCSF
 
 -   [2019] **Erin Gilbertson**
     (Rotation Student in Biological and Medical Informatics, UCSF)
