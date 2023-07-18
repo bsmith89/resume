@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2023-07-17
+version: 2023-07-18
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -27,6 +27,10 @@ diverse data towards understanding complex microbial communities.
 
 
 ## Publications ##
+
+-   [in prep] **B.J. Smith**, X. Jin, C. Zhao, K.S. Pollard. StrainPGC:
+    Resolving strain-level gene content variation from large, metagenomic
+    datasets.
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
@@ -180,6 +184,10 @@ diverse data towards understanding complex microbial communities.
 
 ## Grants and Fellowships ##
 
+-   [2022-2023] Contributed to the writing of a Helmsley Charitable Trust grant that
+    was funded for \$245,905.
+    Principal Investigators: Drs. Dirk Haller, Tobias Schwerd, Katherine Pollard
+
 -   [2021-2022] Computational Innovation Post-doctoral Fellowship
     for my proposal, "Strain-resolved microbiome-wide association studies for
     the discovery of hidden, microbial drivers of disease", funded for \$75,000
@@ -188,7 +196,7 @@ diverse data towards understanding complex microbial communities.
     co-advised by Dr. Thomas M. Schmidt and Dr. Aaron A. King
 
 -   [2015-2016] Instrumental in preparing a UM Glenn Center for Aging Research
-    grant which was funded for \$50,000.
+    grant that was funded for \$50,000.
     Principal Investigator: Dr. Thomas M. Schmidt
 
 -   [2013-2014] UM Ecology & Evolutionary Biology Departmental Block Grant
