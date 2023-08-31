@@ -353,7 +353,15 @@ diverse data towards understanding complex microbial communities.
 
 ## Teaching ##
 
--   [2015-present] Instructor,
+-   [2020] Guest Lecturer,
+    **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
+    -   Prepared and presented an interactive lesson titled
+        [_Brief Introduction to Bayesian Inference_](https://byronjsmith.com/bmi206_bayesian.pdf)
+        to first year PhD students in the Biological and Medical
+        Informatics Graduate Program
+    -   Course Instructor: Dr. Katherine S. Pollard
+
+-   [2015-2020] Instructor,
     **Software Carpentry Bootcamps**,
     -   Co-taught over a dozen workshops on
         computing skills for researchers: programming, the command-line
@@ -365,14 +373,6 @@ diverse data towards understanding complex microbial communities.
         Lawrence Berkeley National Laboratory, and Genentech
     -   Contributed to development of shared teaching materials,
         notably lessons on the tools Git and Make.
-
--   [2020] Guest Lecturer,
-    **BMI 206: Statistical Methods of Bioinformatics**, University of California, San Francisco
-    -   Prepared and presented an interactive lesson titled
-        [_Brief Introduction to Bayesian Inference_](https://byronjsmith.com/bmi206_bayesian.pdf)
-        to first year PhD students in the Biological and Medical
-        Informatics Graduate Program
-    -   Course Instructor: Dr. Katherine S. Pollard
 
 -   [2015, 2018] Graduate Student Instructor,
     **Introductory Biology Lab: The Human Microbiome**,
@@ -423,9 +423,9 @@ diverse data towards understanding complex microbial communities.
        the creation and implementation of the Gladstone DEI Strategic Plan.
 
 -   [2012-present] **Peer Reviewer**
-    - Refereed manuscripts submitted to _eLife_, _Microbiome_, _Cell Systems_,
-      _PLoS Computational Biology_, _PLoS Biology_, _Scientific Reports_,
-      _ISME_, and others.
+    - Reviewed submitted manuscripts at _eLife_, _Microbiome_, _Cell Systems_,
+      _PLoS Computational Biology_, _PLoS Biology_, _Inflammatory Bowel Disease_,
+      _Scientific Reports_, _ISME_, and others.
 
 -   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
     - [2022-2023] Committee Chair
