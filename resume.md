@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2023-09-12
+version: 2023-11-02
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -28,9 +28,10 @@ diverse data towards understanding complex microbial communities.
 
 ## Publications ##
 
--   [in prep] **B.J. Smith**, X. Jin, C. Zhao, K.S. Pollard. StrainPGC:
-    Resolving strain-level gene content variation from large, metagenomic
-    datasets.
+-   [in prep] **B.J. Smith**, X. Jin, C. Zhao, K.S. Pollard.
+    StrainPGC: Accurate inference of intraspecific microbial gene content
+    variation in large collections of shotgun metagenomic data.
+    (for submission to _Genome Research_)
 
 -   [submitted] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
@@ -95,16 +96,16 @@ diverse data towards understanding complex microbial communities.
 
 ## Posters and Presentations ##
 
+-   "Resolving strain-level gene content variation from large, metagenomic datasets"
+    ([poster](https://byronjsmith.com/microbialpop2023_poster.pdf) / [abstract](https://byronjsmith.com/grc_micropop_2023_abstract.pdf))
+     - [2023] **Microbial Population Biology Gordon Research Conference**, Andover, NH
+     - [2023] **Joint Berkeley Initiative for Microbiome Sciences: Microbiomes in a Changing Planet**, Berkeley, CA
+
 -   [2023]
     "Strain-resolved inference of microbial gene content in fecal microbiota
     transplantation to treat ulcerative colitis."
     ([poster](https://byronjsmith.com/rainin2023_poster.pdf) / [abstract](https://byronjsmith.com/rainin2023_abstract.pdf))
     **Kenneth Rainin Foundation Innovations Symposium**, San Francisco, CA
-
--   [2023]
-    "Resolving strain-level gene content variation from large, metagenomic datasets"
-    ([poster](https://byronjsmith.com/microbialpop2023_poster.pdf) / [abstract](https://byronjsmith.com/grc_micropop_2023_abstract.pdf))
-    **Microbial Population Biology Gordon Research Conference**, Andover, NH
 
 -   [2022]
     "Strain tracking and reconstruction in large metagenomic datasets."
