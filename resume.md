@@ -22,8 +22,9 @@ current: http://www.byronjsmith.com/resume.html
 
 ## Research Focus ##
 
-I develop and use bioinformatic tools and statistical models to integrate
-diverse data towards understanding complex microbial communities.
+I develop widely applicable bioinformatic and statistical methods to understand
+the causes and consequences of enormous, intraspecific, genomic diversity among
+microbes residing in the human gut.
 
 
 ## Publications ##
