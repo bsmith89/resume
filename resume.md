@@ -97,6 +97,10 @@ microbes residing in the human gut.
 
 ## Posters and Presentations ##
 
+-   [2023] "Phylogenetic diversity patterns among gastrointestinal bacterial strains"
+    (poster) **Genome Informatics**, Cold Spring Harbor Lab
+    - Presented by Veronika Dubinkina
+
 -   "Resolving strain-level gene content variation from large, metagenomic datasets"
     ([poster](https://byronjsmith.com/microbialpop2023_poster.pdf) / [abstract](https://byronjsmith.com/grc_micropop_2023_abstract.pdf))
      - [2023] **Microbial Population Biology Gordon Research Conference**, Andover, NH
