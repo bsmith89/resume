@@ -319,6 +319,10 @@ microbes residing in the human gut.
     Computational tool to identify and track microbial strains across large
     numbers of metagenomic samples.
 
+-   [StrainPGC](https://github.com/bsmith89/StrainPGC):
+    Software to characterize strain-level gene content variation across large
+    numbers of metagenomic samples.
+
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
     patients receiving fecal microbiota transplants with and without antibiotic
