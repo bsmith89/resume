@@ -45,8 +45,8 @@ microbes residing in the human gut.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
     and fecal metabolic dysfunction by Bacteroides associates with fecal
-    microbial transplant failure in ulcerative colitis patients. Submitted to
-    _Scientific Reports_.
+    microbial transplant failure in ulcerative colitis patients. (submitted to
+    _Scientific Reports_)
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
