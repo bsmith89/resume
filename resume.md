@@ -34,6 +34,13 @@ microbes residing in the human gut.
     variation in large collections of shotgun metagenomic data.
     (for submission to _Genome Research_)
 
+-   [submitted] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, H. Heimes, A.
+    Metwaly, A Mahapatra, H. Hölz, F. De Zen, J. Heetmeyer, K. Socas, G. Le
+    Thi, C. Meng, K. Kleigrewe, J.K. Pauling, K. Neuhaus, M. List, K.S.
+    Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
+    protective microbiome changes to induce remission in pediatric Crohn’s
+    disease. (submitted to _Nature Medicine_)
+
 -   [submitted] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
