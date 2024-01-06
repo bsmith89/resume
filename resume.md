@@ -34,12 +34,12 @@ microbes residing in the human gut.
     variation in large collections of shotgun metagenomic data.
     (for submission to _Genome Research_)
 
--   [submitted] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
+-   [in review] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
     and fecal metabolic dysfunction by Bacteroides associates with fecal
     microbial transplant failure in ulcerative colitis patients.
-    (in review at _Scientific Reports_)
+    (submitted to _Scientific Reports_)
 
 -   [2023] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, H. Heimes, A.
     Metwaly, A Mahapatra, H. Hölz, F. De Zen, J. Heetmeyer, K. Socas, G. Le
