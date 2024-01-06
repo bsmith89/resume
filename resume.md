@@ -363,7 +363,7 @@ microbes residing in the human gut.
       Pollard Lab, where she initiated a project tracking strain-resolved
       transmission outcomes in a large meta-study of fecal microbiota
       transplantation experiments.
-    - Currently: Graduate Student, UCSF
+    - Currently: Graduate Student working with Prof. Marina Sirota, UCSF
 
 -   [2019] **Erin Gilbertson**
     (Rotation Student in Biological and Medical Informatics, UCSF)
