@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2024-01-06
+version: 2024-07-13
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -111,7 +111,7 @@ microbes residing in the human gut.
 -   [2024] "Alignment-free quantification of genes and operons across metagenomes by assembly graph deconvolution"
     ([talk](https://byronjsmith.com/iggsy2024_slides.pdf)
     / [abstract](https://byronjsmith.com/iggsy2024_abstract.pdf))
-    **International Graph Genome Symposium**, Ascona, Switzerland
+    **International Genome Graph Symposium**, Ascona, Switzerland
 
 -   [2023] "Phylogenetic diversity patterns among gastrointestinal bacterial strains"
     (poster) **Genome Informatics**, Cold Spring Harbor Lab
