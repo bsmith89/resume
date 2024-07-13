@@ -29,25 +29,28 @@ microbes residing in the human gut.
 
 ## Publications ##
 
--   [in prep] **B.J. Smith**, X. Jin, C. Zhao, K.S. Pollard.
-    StrainPGC: Accurate inference of intraspecific microbial gene content
-    variation in large collections of shotgun metagenomic data.
-    (for submission to _Genome Research_)
+-   [2024] **B.J. Smith**, C. Zhao, Veronika Dubinkina, X. Jin, J. Moltzau-Anderson,
+    K.S. Pollard.
+    Accurate estimation of intraspecific microbial gene content variation
+    in metagenomic data with MIDAS v3 and StrainPGC.
+    _MedRxiv_
+    doi:[10.1101/2024.04.10.588779](https://doi.org/10.1101/2024.04.10.588779)
+    (in review at _Genome Research_)
 
--   [in review] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
+-   [2024] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, A. Mahapatra,
+    H. Heimes, A. Metwaly,  H. Hölz, Q. Manz, F. De Zen, J. Heetmeyer, K. Socas,
+    G. Le Thi, C. Meng, K. Kleigrewe, J.K. Pauling, K. Neuhaus, M. List, K.S.
+    Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
+    individual protective microbiome changes to induce remission in pediatric Crohn’s
+    disease. _MedRxiv_ doi:[10.1101/2023.12.21.23300351](https://doi.org/10.1101/2023.12.21.23300351)
+    (in revisions for _Cell Host & Microbe_)
+
+-   [2024] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
     and fecal metabolic dysfunction by Bacteroides associates with fecal
     microbial transplant failure in ulcerative colitis patients.
-    (submitted to _Scientific Reports_)
-
--   [2023] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, H. Heimes, A.
-    Metwaly, A Mahapatra, H. Hölz, F. De Zen, J. Heetmeyer, K. Socas, G. Le
-    Thi, C. Meng, K. Kleigrewe, J.K. Pauling, K. Neuhaus, M. List, K.S.
-    Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
-    protective microbiome changes to induce remission in pediatric Crohn’s
-    disease. doi:[10.1101/2023.12.21.23300351](https://doi.org/10.1101/2023.12.21.23300351)
-    _BioRxiv_ (in review at _Nature Medicine_)
+    _Scientific Reports_ (accepted; not yet published)
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
@@ -104,6 +107,11 @@ microbes residing in the human gut.
 
 
 ## Posters and Presentations ##
+
+-   [2024] "Alignment-free quantification of genes and operons across metagenomes by assembly graph deconvolution"
+    ([talk](https://byronjsmith.com/iggsy2024_slides.pdf)
+    / [abstract](https://byronjsmith.com/iggsy2024_abstract.pdf))
+    **International Graph Genome Symposium**, Ascona, Switzerland
 
 -   [2023] "Phylogenetic diversity patterns among gastrointestinal bacterial strains"
     (poster) **Genome Informatics**, Cold Spring Harbor Lab
@@ -323,6 +331,10 @@ microbes residing in the human gut.
 
 ## Public Datasets and Software ##
 
+-   [StrainZip](https://github.com/bsmith89/StrainZip):
+    Prototype software to deconvolve strain-specific sequences
+    and estimate short-read mapping depths in metagenomic assembly graphs.
+
 -   [StrainFacts](https://github.com/bsmith89/StrainFacts):
     Computational tool to identify and track microbial strains across large
     numbers of metagenomic samples.
@@ -452,7 +464,7 @@ microbes residing in the human gut.
 -   [2012-present] **Peer Reviewer**
     - Reviewed submitted manuscripts at _eLife_, _Microbiome_, _Cell Systems_,
       _PLoS Computational Biology_, _PLoS Biology_, _Inflammatory Bowel Disease_,
-      _Scientific Reports_, _ISME_, and others.
+      _Scientific Reports_, _ISME_, _Biology Methods and Protocols_, and others.
 
 -   [2018-2023] **Software Carpentry Curriculum Advisory Committee**
     - [2022-2023] Committee Chair
