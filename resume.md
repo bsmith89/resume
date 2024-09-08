@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2024-07-13
+version: 2024-09-07
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -29,13 +29,13 @@ microbes residing in the human gut.
 
 ## Publications ##
 
--   [2024] **B.J. Smith**, C. Zhao, Veronika Dubinkina, X. Jin, J. Moltzau-Anderson,
+-   [2024] **B.J. Smith**, C. Zhao, V. Dubinkina, X. Jin, J. Moltzau-Anderson,
     K.S. Pollard.
     Accurate estimation of intraspecific microbial gene content variation
     in metagenomic data with MIDAS v3 and StrainPGC.
     _MedRxiv_
     doi:[10.1101/2024.04.10.588779](https://doi.org/10.1101/2024.04.10.588779)
-    (in review at _Genome Research_)
+    (in revisions for _Genome Research_)
 
 -   [2024] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, A. Mahapatra,
     H. Heimes, A. Metwaly,  H. Hölz, Q. Manz, F. De Zen, J. Heetmeyer, K. Socas,
@@ -43,14 +43,14 @@ microbes residing in the human gut.
     Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
     individual protective microbiome changes to induce remission in pediatric Crohn’s
     disease. _MedRxiv_ doi:[10.1101/2023.12.21.23300351](https://doi.org/10.1101/2023.12.21.23300351)
-    (under revision for _Cell Host & Microbe_)
+    (in review at _Cell Host & Microbe_)
 
--   [2024] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau Anderson, C. E.
+-   [2024] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau-Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
     Pollard, A. Ma, N. El-Nachef, S. V. Lynch. Sustained mucosal colonization
     and fecal metabolic dysfunction by Bacteroides associates with fecal
     microbial transplant failure in ulcerative colitis patients.
-    _Scientific Reports_ (accepted; not yet published)
+    _Scientific Reports_ doi:[10.1038/s41598-024-62463-8](https://doi.org/10.1038/s41598-024-62463-8)
 
 -   [2022] C. Zhao, M. Goldman, **B.J. Smith**, K.S. Pollard. Genotyping
     microbial communities with MIDAS2: from metagenomic reads to allele
@@ -107,6 +107,9 @@ microbes residing in the human gut.
 
 
 ## Posters and Presentations ##
+
+-   [2024] "Unzipping the metagenome: strain-level discovery in the gut microbiome"
+    ([talk](https://byronjsmith.com/gladstone_retreat_2024.pdf)) **Gladstone Retreat**, Pacific Grove, CA
 
 -   [2024] "Alignment-free quantification of genes and operons across metagenomes by assembly graph deconvolution"
     ([talk](https://byronjsmith.com/iggsy2024_slides.pdf)
