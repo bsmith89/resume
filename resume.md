@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2024-09-07
+version: 2024-09-11
 current: http://www.byronjsmith.com/resume.html
 ...
 
@@ -109,7 +109,8 @@ microbes residing in the human gut.
 ## Posters and Presentations ##
 
 -   [2024] "Unzipping the metagenome: strain-level discovery in the gut microbiome"
-    ([talk](https://byronjsmith.com/gladstone_retreat_2024.pdf)) **Gladstone Retreat**, Pacific Grove, CA
+    - ([talk](https://byronjsmith.com/gladstone_retreat_2024.pdf)) **Gladstone Retreat**, Pacific Grove, CA
+    - ([invited talk](https://byronjsmith.com/strainzip_2024-10-10_slides.pdf)) **Bhatt Lab Computation Subgroup Meeting**, Stanford University, Palo Alto, CA
 
 -   [2024] "Alignment-free quantification of genes and operons across metagenomes by assembly graph deconvolution"
     ([talk](https://byronjsmith.com/iggsy2024_slides.pdf)
