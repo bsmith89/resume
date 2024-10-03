@@ -1,7 +1,7 @@
 SITE_DIR := site
 SITE_INDEX := vitae.html
 SITE_CONTENT :=
-OUTPUT := vitae.html vitae.pdf
+OUTPUT := vitae.html vitae.pdf resume.html resume.pdf
 CLEANUP := ${SITE_DIR} ${OUTPUT}
 
 VENV=./.venv
@@ -25,11 +25,11 @@ ${SITE_DIR}/%: %
 	@mkdir -p ${@D}
 	cp $< $@
 
-vitae.html: vitae.md vitae.html5.template
+%.html: %.md %.html5.template
 	pandoc --standalone --to=html5 --template=$(word 2,$^) \
            --output=$@ $(word 1,$^)
 
-vitae.pdf: vitae.md vitae.latex.template
+%.pdf: %.md %.latex.template
 	pandoc --to=latex --pdf-engine=lualatex -V fontsize=12pt --template=$(word 2,$^) --output=$@ $(word 1,$^)
 
 %.docx: %.md
