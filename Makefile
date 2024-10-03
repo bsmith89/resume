@@ -1,14 +1,14 @@
 SITE_DIR := site
-SITE_INDEX := resume.html
+SITE_INDEX := vitae.html
 SITE_CONTENT :=
-OUTPUT := resume.html resume.pdf
+OUTPUT := vitae.html vitae.pdf
 CLEANUP := ${SITE_DIR} ${OUTPUT}
 
 VENV=./.venv
 export VIRTUAL_ENV := $(abspath ${VENV})
 export PATH := ${VIRTUAL_ENV}/bin:${PATH}
 
-include local.mk
+# include local.mk
 
 .POSIX:
 .DELETE_ON_ERROR:
@@ -25,11 +25,11 @@ ${SITE_DIR}/%: %
 	@mkdir -p ${@D}
 	cp $< $@
 
-resume.html: resume.md resume.html5.template
+vitae.html: vitae.md vitae.html5.template
 	pandoc --standalone --to=html5 --template=$(word 2,$^) \
            --output=$@ $(word 1,$^)
 
-resume.pdf: resume.md resume.latex.template
+vitae.pdf: vitae.md vitae.latex.template
 	pandoc --to=latex --pdf-engine=lualatex -V fontsize=12pt --template=$(word 2,$^) --output=$@ $(word 1,$^)
 
 %.docx: %.md
