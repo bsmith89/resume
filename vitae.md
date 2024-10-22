@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2024-10-03
+version: 2024-10-17
 current: http://www.byronjsmith.com/vitae.html
 ...
 
