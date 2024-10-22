@@ -34,7 +34,7 @@ microbes residing in the human gut.
     Pollard, T. Schwerd, D. Haller. Exclusive enteral nutrition initiates
     individual protective microbiome changes to induce remission in pediatric Crohn’s
     disease. _Cell Host & Microbe_
-    (accepted; [_MedRxiv_ preprint](https://doi.org/10.1101/2023.12.21.23300351))
+    (in press; [_MedRxiv_ preprint](https://doi.org/10.1101/2023.12.21.23300351))
 
 -   [2024] **B.J. Smith**, C. Zhao, V. Dubinkina, X. Jin, J. Moltzau-Anderson,
     K.S. Pollard.
@@ -258,9 +258,6 @@ microbes residing in the human gut.
 
 -   [2007, 2008, 2009, 2011] The College of William \& Mary
     Dean's List for Academic Excellence
-
--   [2008] Inducted into Alpha Lambda Delta and Phi Eta Sigma Academic Honor
-    Societies
 
 
 ## Education and Professional Experience ##
