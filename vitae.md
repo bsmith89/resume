@@ -15,7 +15,7 @@ header-includes: >
 
 analytics: UA-40659359-4
 
-version: 2024-10-31
+version: 2024-10-31b
 current: http://www.byronjsmith.com/vitae.html
 ...
 
@@ -332,16 +332,13 @@ microbes residing in the human gut.
 ## Public Datasets and Software ##
 
 -   [StrainZip](https://github.com/bsmith89/StrainZip):
-    Prototype software to deconvolve strain-specific sequences
-    and estimate short-read mapping depths in metagenomic assembly graphs.
-
--   [StrainFacts](https://github.com/bsmith89/StrainFacts):
-    Computational tool to identify and track microbial strains across large
-    numbers of metagenomic samples.
+    Strain-resolved, genome assembly with integrated depth quantification using shotgun metagenomes.
 
 -   [StrainPGC](https://github.com/bsmith89/StrainPGC):
-    Software to characterize strain-level gene content variation across large
-    numbers of metagenomic samples.
+    Strain-aware gene content reconstruction from pangenome profiling of shotgun metagenomes.
+
+-   [StrainFacts](https://github.com/bsmith89/StrainFacts):
+    Track and genotype microbial strains through deconvolution of SNP counts from shotgun metagenomes.
 
 -   [PRJNA737472](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA737472):
     Longitudinal fecal metagenomes and 16S rRNA gene libraries from ulcerative colitis
