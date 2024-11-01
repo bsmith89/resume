@@ -28,6 +28,14 @@ microbes residing in the human gut.
 
 
 ## Publications ##
+-   [2024] **B.J. Smith**, C. Zhao, V. Dubinkina, X. Jin, L. Zahavi, S. Shoer,
+    J. Moltzau-Anderson, E. Segal, K.S. Pollard.
+    Accurate estimation of intraspecific microbial gene content variation
+    in metagenomic data with MIDAS v3 and StrainPGC.
+    _MedRxiv_
+    doi:[10.1101/2024.04.10.588779](https://doi.org/10.1101/2024.04.10.588779)
+    (in revisions for _Genome Research_)
+
 -   [2024] D. Häcker, K. Siebert, **B.J. Smith**, N. Köhler, A. Riva, A. Mahapatra,
     H. Heimes, J. Nie, A. Metwaly, H. Hölz, Q. Manz, F. De Zen, J. Heetmeyer, K. Socas,
     G. Le Thi, C. Meng, K. Kleigrewe, J.K. Pauling, K. Neuhaus, M. List, K.S.
@@ -35,14 +43,6 @@ microbes residing in the human gut.
     individual protective microbiome changes to induce remission in pediatric Crohn’s
     disease. _Cell Host & Microbe_
     doi:[10.1016/j.chom.2024.10.001](https://doi.org/10.1016/j.chom.2024.10.001)
-
--   [2024] **B.J. Smith**, C. Zhao, V. Dubinkina, X. Jin, J. Moltzau-Anderson,
-    K.S. Pollard.
-    Accurate estimation of intraspecific microbial gene content variation
-    in metagenomic data with MIDAS v3 and StrainPGC.
-    _MedRxiv_
-    doi:[10.1101/2024.04.10.588779](https://doi.org/10.1101/2024.04.10.588779)
-    (in revisions for _Genome Research_)
 
 -   [2024] B. Zhang, K. Magnaye, E. Stryker, J. Moltzau-Anderson, C. E.
     Porsche, S. Hertz, K. E. McCauley, **B. J. Smith**, M. Zydek, K. S.
